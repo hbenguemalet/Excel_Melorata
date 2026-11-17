@@ -1,0 +1,232 @@
+﻿album_id;artiste_id;album;annee;style;nb_titres;nb_titres_notes;note_moyenne;cd_possede;vinyle_possede
+1;1;Age Ain't Nothing But A Number;1995;R&B;14;5;7,7;0;0
+2;1;One In A Million;1996;R&B;18;0;;0;0
+3;1;Aaliyah;2001;R&B;15;0;;0;0
+4;2;19;2008;Pop;12;12;7,3333;0;0
+5;2;21;2011;Pop;11;11;7,2273;0;0
+6;2;25;2015;Pop;11;11;8,6364;1;0
+7;2;30;2021;Pop;12;12;8,2083;1;0
+8;3;I'm Still In Love With You;;;0;0;;0;0
+9;3;Call Me;;;0;0;;0;0
+10;3;Belle;;;0;0;;0;0
+11;3;Let's Stay Together;;;0;0;;0;0
+12;3;Can't Get Next To You;;;0;0;;0;0
+13;3;Al Green Is Love;;;0;0;;0;0
+14;3;Al Green Explores Your Mind;;;0;0;;0;0
+15;4;Songs In A Minor;2001;R&B;16;15;7,6167;0;0
+16;4;The Diary Of Alicia Keys;2003;R&B;15;13;8,1923;0;0
+17;4;As I Am;2007;R&B;17;16;7,6875;0;0
+18;4;Element of Freedom;2009;R&B;14;13;8,0;0;0
+19;4;Girl On Fire;2012;R&B;14;13;7,5192;0;0
+20;4;HERE;2016;R&B;18;0;;0;0
+21;4;ALICIA;2020;R&B;18;0;;0;0
+22;4;KEYS;2021;R&B;30;1;9,0;0;0
+23;4;Santa Baby;2022;R&B;0;0;;0;0
+24;5;The Songstress;1983;R&B;0;0;;0;0
+25;5;Rupture;1986;R&B;8;8;8,4375;0;0
+26;5;Giving You The Best That I Got;1988;R&B;8;0;;0;0
+27;5;Compositions;1990;R&B;0;0;;0;0
+28;5;Rythm Of Love;1994;R&B;0;0;;0;0
+29;5;Christmas Fantasy;2005;R&B;0;0;;0;0
+30;6;Yours Truly;;;12;0;;0;0
+31;6;My Everything;;;15;0;;0;0
+32;6;Dangerous Woman;;;17;0;;0;0
+33;6;Sweetener;;;15;0;;0;0
+34;6;Positions;;;12;0;;0;0
+35;6;Positions;;;19;0;;0;0
+36;6;eternal sunshine deluxe: brighter days ahead;;;19;0;;0;0
+37;8;The Sound Of Bad Habits;2018;;0;0;;0;0
+38;8;DIE FOR MY BITCH;2019;;0;0;;0;0
+39;8;The Melodic Blue;2022;Rap;26;26;8,4808;0;0
+40;8;Ca$ino;2025;Rap;11;11;8,7727;0;0
+41;9;Dangerously in Love;2003;R&B;15;14;7,7143;0;0
+42;9;B'Day;2006;R&B;10;10;7,75;0;0
+43;9;I AM...SASHA FIERCE;2008;R&B;15;15;7,7333;0;0
+44;9;4;2011;R&B;14;14;8,5536;1;0
+45;9;Lemonade;2016;R&B;12;12;6,875;0;0
+46;9;Renaissance;2022;Pop;16;16;7,2188;0;0
+47;9;Cowboy Carter;2024;Country;27;23;6,3696;0;0
+48;10;WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?;2019;Alternative;0;0;;0;0
+49;10;Happier Than Ever;2021;Alternative;16;1;5,0;0;0
+50;10;HIT ME HARD AND SOFT;2024;Alternative;10;10;5,45;0;0
+51;11;A.M. Paradox;2016;R&B;5;5;8,4;0;0
+52;11;Sonder Son;2017;R&B;12;12;7,7083;0;0
+53;11;Lost;2018;R&B;6;6;7,9583;0;0
+54;11;Fuck The World;2020;R&B;10;9;7,8333;0;0
+55;11;Wasteland;2022;R&B;19;15;8,7667;0;0
+56;11;Larger Than Life;2023;R&B;14;12;8,1667;0;0
+57;11;Icon;2026;R&B;12;11;9,0909;0;0
+58;12;Doo-Wops & Hooligans;2010;Pop;11;11;7,9091;0;0
+59;12;Unorthodox Jukebox;2012;Pop;10;10;8,625;1;0
+60;12;24k Magic;2016;Pop;9;9;8,4444;0;0
+61;12;An Evening With Silk Sonic;2021;Soul;10;9;9,3333;1;0
+62;12;The Romantic;2026;Pop;9;9;8,3889;1;0
+63;13;Nine Track Mind;2016;Pop;12;12;7,3125;1;0
+64;13;Voicenotes;2018;Pop;13;13;7,1538;0;0
+65;13;Charlie;2022;Pop;12;12;5,9167;0;0
+66;13;Whatever's Clever;2026;Pop;12;0;;0;0
+67;14;Charlie, Last Name Wilson;;;0;0;;0;0
+68;14;In It To Win It;;;0;0;;0;0
+69;14;Just Charlie;;;0;0;;0;0
+70;14;Love, Charlie;;;0;0;;0;0
+71;14;Forever Charlie;;;0;0;;0;0
+72;14;You Turn My Life Around;;;0;0;;0;0
+73;14;Uncle Charlie;;;0;0;;0;0
+74;15;Cheryl Lynn;;;0;0;;0;0
+75;15;In The Night;;;0;0;;0;0
+76;15;In Love;;;0;0;;0;0
+77;15;Start Over;;;0;0;;0;0
+78;15;Whatever It Takes;;;0;0;;0;0
+79;15;Instant Love;;;0;0;;0;0
+80;17;Brown Sugar;1995;Soul;10;10;8,2;0;0
+81;17;Voodoo;2000;Soul;13;13;8,0192;0;0
+82;17;Black Messiah;2014;Soul;12;12;7,2917;0;0
+83;18;Pilgrim's Paradise;2015;R&B;7;1;9,0;0;0
+84;18;Freudian;2017;R&B;10;10;8,75;0;0
+85;18;CASE STUDY 01;2019;R&B;10;10;7,1;0;0
+86;18;NEVER ENOUGH;2023;R&B;15;15;8,4333;0;0
+87;18;Son Of Spergy;2025;R&B;12;6;8,6667;0;0
+88;19;Amala;2018;R&B;16;0;;0;0
+89;19;Hot Pink;2019;Pop;12;12;8,5;0;0
+90;19;Planet Her;2021;Pop;19;19;8,6053;0;0
+91;19;Scarlet;2023;Rap;24;2;8,75;0;0
+92;19;Vie;2025;Pop;2;0;;0;0
+93;21;Baduizm;1997;R&B;14;13;7,5385;0;0
+94;21;Mama's Gun;2000;R&B;14;13;9,0385;0;0
+95;21;Worldwide Underground;2003;R&B;11;9;7,8333;0;0
+96;21;New Amerykah Part One (4th World War);2008;R&B;11;11;6,8636;0;0
+97;21;New Amerykah Part Two: Return Of The Ankh;2010;R&B;11;11;7,8182;0;0
+98;22;Get Loose;;;0;0;;0;0
+99;22;Legends;;;0;0;;0;0
+100;22;I'm In Love;;;0;0;;0;0
+101;23;Nostalgia Ultra;2011;R&B;14;10;9,55;1;0
+102;23;Channel Orange;2012;R&B;17;14;9,0357;1;0
+103;23;Blonde;2016;R&B;17;15;9,2333;1;0
+104;23;Endless;2016;R&B;22;18;8,4444;0;1
+105;24;Rock Me Tonight;;;0;0;;0;0
+106;24;Just Like The First Time;;;0;0;;0;0
+107;24;Time For Love;;;0;0;;0;0
+108;25;Awakening;1982;J-Pop;11;11;8,7727;1;0
+109;25;Aqua +2;1988;J-Pop;0;0;;0;0
+110;25;All Of Me;1995;Pop;0;0;;0;0
+111;25;Oracle;1996;Pop;0;0;;0;0
+112;25;Amazing;2010;R&B;0;0;;0;0
+113;25;SEASIDE LOVERS;2013;Pop;0;0;;0;0
+114;26;Caravan of Love;1985;R&B;7;7;8,3571;0;0
+115;26;Different Drummer;1987;R&B;0;0;;0;0
+116;27;Rythm Nation;;;20;0;;0;0
+117;27;Janet;;;0;0;;0;0
+118;27;The Velvet Rope;;;0;0;;0;0
+119;28;Trip;;;0;0;;0;0
+120;28;Sailing Souls;;;0;0;;0;0
+121;29;The Show, The After Party, The Hotel;;;0;0;;0;0
+122;29;Diary Of A Mad Band;;;0;0;;0;0
+123;29;Forever My Lady;;;0;0;;0;0
+124;30;Project 11;2016;R&B;0;0;;0;0
+125;30;Lost & Found;2018;R&B;13;3;6,8333;0;0
+126;30;Be Right Back;2021;R&B;0;0;;0;0
+127;30;falling or flying;2024;R&B;0;0;;0;0
+128;31;Isolation;;R&B;15;15;8,9;1;0
+129;31;Sin Miedo;;Pop;15;15;7,85;0;0
+130;31;ORQUÍDEAS;;R&B;18;18;7,4306;0;0
+131;31;Red Moon In Venus;;R&B;15;14;7,6429;0;0
+132;31;Sincerely: P.S.;;Pop;19;14;7,5536;0;0
+133;32;The College Dropout;;Rap;21;15;9,65;1;0
+134;32;The Late Registration;;Rap;21;16;10,0;1;0
+135;32;Graduation;;Rap;15;15;9,9333;0;0
+136;32;808s & HEARTBREAK;;Rap;11;11;9,4545;1;1
+137;32;My Beautiful Dark Twisted Fantasy;;Rap;15;15;10,0;1;0
+138;32;Yeezus;;Rap;10;10;9,3;0;0
+139;32;The Life Of Pablo;;Rap;20;16;8,7812;0;0
+140;32;Ye;;Rap;7;7;9,4286;0;1
+141;32;Kids See Ghosts;;Rap;7;7;9,1429;0;0
+142;32;Jesus Is King;;Gospel;11;11;8,2273;1;0
+143;32;Donda;;Rap;32;31;8,4194;0;1
+144;32;Vultures 1;;Rap;16;16;8,4688;0;0
+145;32;Vultures 2;;Rap;21;15;7,7333;0;0
+146;33;Never Too Much;;Disco;7;7;9,5714;0;0
+147;33;The Night I Fell In Love;;R&B;0;0;;0;0
+148;33;Busy Body;;R&B;0;0;;0;0
+149;33;Forever, For Always, For Love;;R&B;0;0;;0;0
+150;33;Songs;;Pop;13;13;8,1154;0;0
+151;33;Give Me One Reason;;R&B;0;0;;0;0
+152;33;Any Love;;R&B;0;0;;0;0
+153;33;Power Of Love;;R&B;0;0;;0;0
+154;33;Never Let Me Go;;R&B;0;0;;0;0
+155;33;Your Secret Love;;R&B;0;0;;0;0
+156;33;I Know;;R&B;0;0;;0;0
+157;33;Luther Vandross;;R&B;0;0;;0;0
+158;33;Dance With My Father;;R&B;0;0;;0;0
+159;34;What's Going On;;Soul;9;9;9,6667;1;0
+160;34;Let's Get It On;;Soul;8;8;9,5625;0;0
+161;34;I Want You;;Soul;0;0;;0;1
+162;34;Midnight Love;;Soul;9;9;7,9444;0;0
+163;35;My Life;;;0;0;;0;0
+164;35;Share My World;;;0;0;;0;0
+165;35;What's The 411;;;0;0;;0;0
+166;35;The Breakthrough;;;0;0;;0;0
+167;35;Mary;;;0;0;;0;0
+168;36;Thriller*;;Pop;9;9;10,0;1;0
+169;36;Off The Wall;;Pop;10;10;9,15;0;0
+170;36;Dangerous;;Pop;14;14;8,5;0;0
+171;36;Bad;;Pop;11;11;9,7273;0;0
+172;36;HIStory - PAST, PRESENT AND FUTURE - BOOK I;;Pop;15;3;9,3333;0;0
+173;36;Invincible;;R&B;16;16;8,875;0;0
+174;36;XSCAPE;;;0;0;;0;0
+175;36;Blood On The Dance Floor;;;0;0;;0;0
+176;36;Got To Be There;;;0;0;;0;0
+177;36;Michael;;;0;0;;0;0
+178;36;Ben;;;0;0;;0;0
+179;36;Music & Me;;;0;0;;0;0
+180;37;The Miseducation of Lauryn Hill;;Soul;16;15;9,7667;1;1
+181;38;Burnin';;;0;0;;0;0
+182;38;Winner In You;;;0;0;;0;0
+183;38;I'm In Love Again;;;0;0;;0;0
+184;39;Tous mes rêves;2007;Zouk;4;3;8,1667;0;0
+185;40;Music Of The Sun;;Pop;12;12;8,1667;0;0
+186;40;A Girl Like Me;;R&B;13;13;6,75;0;0
+187;40;Good Girl Gone Bad;;Pop;15;14;7,25;0;0
+188;40;Rated R;;R&B;13;13;6,8077;0;0
+189;40;Talk That Talk (Deluxe);;Pop;14;14;7,0536;0;0
+190;40;Loud;;Pop;11;11;8,7273;1;0
+191;40;Unapologetic (Deluxe);;Pop;15;15;6,5;0;0
+192;40;Anti;;R&B;16;16;8,0;0;0
+193;41;Ronisia;;;0;0;;0;0
+194;41;Era 24;;;0;0;;0;0
+195;43;Diamond Life;;Soul;9;9;8,9444;0;0
+196;43;Promise;;Soul;11;11;9,2727;0;0
+197;43;Stronger Than Pride;;Soul;10;10;9,25;0;0
+198;43;Love Deluxe;;Soul;9;9;9,5556;0;0
+199;43;Lovers Rock;;Soul;11;0;;0;0
+200;43;Soldier of Love;;Soul;10;0;;0;0
+201;46;Smokey;;Soul;9;0;;0;0
+202;48;A Seat at the Table;;Soul;21;12;7,9583;0;0
+203;48;When I Get Home;;R&B;19;13;7,6538;0;0
+204;49;Too Late To Die Young;;R&B;5;5;7,6;0;0
+205;49;Into;;R&B;7;7;6,9643;0;0
+206;50;Journal Therapy;;R&B;3;3;8,5;0;0
+207;50;EMOTIONAL ROLLER COASTER;;R&B;9;9;7,2778;0;0
+208;50;Au Cœur du Mien;;R&B;13;13;8,3269;0;0
+209;50;Silk & Shadows;;R&B;9;9;8,7222;0;0
+210;50;Summer Rave 2025;;R&B;3;3;8,1667;0;0
+211;51;Apollo XXI;;Soul;12;12;7,8333;0;0
+212;51;Gemini Rights;;R&B;10;10;8,8;0;1
+213;51;Steve Lacy's Demo;;Soul;6;6;7,4167;0;0
+214;53;CTRL;;R&B;20;20;7,4375;0;0
+215;53;SOS;;R&B;23;23;7,6739;0;0
+216;53;LANA;;R&B;19;19;7,7763;0;0
+217;54;Currents;2015;Alternative;13;13;7,7692;0;0
+218;56;Thee Sacred Souls;;Soul;12;12;8,0;0;0
+219;56;Got a Story to Tell;;Soul;0;0;;0;0
+220;57;girl music vol. 1;2026;R&B;0;0;;0;0
+221;58;Wolf;;Rap;0;0;;0;0
+222;59;Confessions;;R&B;21;20;8,1625;0;0
+223;59;8701;;R&B;15;6;6,8333;0;0
+224;59;Raymond v Raymond;;R&B;21;0;;0;0
+225;59;Here I Stand;;R&B;18;0;;0;0
+226;59;Looking 4 Myself;;R&B;18;0;;0;0
+227;59;Hard II Love;;R&B;15;0;;0;0
+228;59;My Way;;R&B;10;0;;0;0
+229;59;COMING HOME;;R&B;0;0;;0;0
+230;59;Versus;;R&B;0;0;;0;0
+231;59;Usher;;R&B;0;0;;0;0

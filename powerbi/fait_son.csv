@@ -1,0 +1,1983 @@
+﻿son_id;album_id;artiste_id;piste;titre;note;featuring;favori
+1;1;1;1;Intro;;;0
+2;1;1;2;Throw Your Hands Up;6,0;Tia Hawkins;0
+3;1;1;3;Back & Forth;7,0;R. Kelly;0
+4;1;1;4;Age Ain't Nothing But A Number;8,5;;0
+5;1;1;5;Down With the Clique;7,0;R. Kelly;0
+6;1;1;6;At Your Best (You Are Love);10,0;;1
+7;1;1;7;No One Knows How to Love Me Quite Like You Do;;Tia Hawkins, R. Kelly;0
+8;1;1;8;I'm So Into You;;Tia Hawkins;0
+9;1;1;9;Street Thing;;;0
+10;1;1;10;Young Nation;;;0
+11;1;1;11;Old School;;R. Kelly;0
+12;1;1;12;I'm Down;;;0
+13;1;1;13;The Thing I Like;;R. Kelly;0
+14;1;1;14;Back & Forth (Remix);;R. Kelly, Mr Lee;0
+15;2;1;1;Beats 4 Da Streets (Intro);;;0
+16;2;1;2;Hot Like Fire;;;0
+17;2;1;3;One In A Million;;;0
+18;2;1;4;A Girl Like You;;Treach;0
+19;2;1;5;If Your Girl Only Knew;;;0
+20;2;1;6;Choosey Lover (Old School / New School);;;0
+21;2;1;7;Got To Give It Up;;Slick Rick;0
+22;2;1;8;4 Page Letter;;;0
+23;2;1;9;Everything's Gonna Be Alright;;;0
+24;2;1;10;Giving You More;;;0
+25;2;1;11;I Gotcha' Back;;;0
+26;2;1;12;Never Givin' Up;;Tavarius Polk;0
+27;2;1;13;Heartbroken;;;0
+28;2;1;14;Never Comin' Back;;;0
+29;2;1;15;Ladies In The House;;Timbaland, Missy Elliott;0
+30;2;1;16;The One I Give My Heart To;;;0
+31;2;1;17;Came To Give My Love (Outro);;Timbaland;0
+32;2;1;18;Hot Like Fire (Timbaland Remix);;Timbaland, Missy Elliott;0
+33;3;1;1;We Need A Resolution;;Timbaland;0
+34;3;1;2;Loose Rap;;Static Major;0
+35;3;1;3;Rock The Boat;;;0
+36;3;1;4;More Than A Woman;;;0
+37;3;1;5;Never No More;;;0
+38;3;1;6;I Care 4 U;;;0
+39;3;1;7;Extra Smooth;;;0
+40;3;1;8;Read Between the Lines;;;0
+41;3;1;9;U Got Nerve;;;0
+42;3;1;10;I Refuse;;;0
+43;3;1;11;It's Whatever;;;0
+44;3;1;12;I Can Be;;;0
+45;3;1;13;Those Were The Days;;;0
+46;3;1;14;What If;;;0
+47;3;1;15;Try Again;;;0
+48;4;2;1;Daydreamer;9,0;;0
+49;4;2;2;Best for Last;6,5;;0
+50;4;2;3;Chasing Pavements;8,0;;0
+51;4;2;4;Cold Shoulder;7,5;;0
+52;4;2;5;Crazy For You;7,0;;0
+53;4;2;6;Melt My Heart to Stone;6,5;;0
+54;4;2;7;First Love;7,0;;0
+55;4;2;8;Right As Rain;7,5;;0
+56;4;2;9;Make You Feel My Love;6,5;;0
+57;4;2;10;My Same;7,0;;0
+58;4;2;11;Tired;8,0;;0
+59;4;2;12;Hometown Glory;7,5;;0
+60;5;2;1;Rolling In The Deep;9,0;;0
+61;5;2;2;Rumour Has It;7,5;;0
+62;5;2;3;Turning Tables;8,0;;0
+63;5;2;4;Don't You Remember;7,0;;0
+64;5;2;5;Set Fire to the Rain;9,0;;0
+65;5;2;6;He Won't Go;6,0;;0
+66;5;2;7;Take It All;7,5;;0
+67;5;2;8;I'll Be Waiting;4,5;;0
+68;5;2;9;One And Only;7,0;;0
+69;5;2;10;Lovesong;4,0;;0
+70;5;2;11;Someone Like You;10,0;;1
+71;6;2;1;Hello;7,0;;0
+72;6;2;2;Send My Love (To Your New Lover);7,5;;0
+73;6;2;3;I Miss You;7,0;;0
+74;6;2;4;When We Were Young;9,0;;0
+75;6;2;5;Remedy;8,0;;0
+76;6;2;6;Water Under the Bridge;9,0;;0
+77;6;2;7;River Lea;9,5;;0
+78;6;2;8;Love In The Dark;10,0;;0
+79;6;2;9;Million Years Ago;10,0;;0
+80;6;2;10;All I Ask;10,0;;1
+81;6;2;11;Sweetest Devotion;8,0;;0
+82;7;2;1;Stangers By Nature;8,5;;0
+83;7;2;2;Easy On Me;10,0;;1
+84;7;2;3;My Little Love;7,0;;0
+85;7;2;4;Cry Your Heart Out;7,0;;0
+86;7;2;5;Oh My God;7,0;;0
+87;7;2;6;Can I Get It;7,0;;0
+88;7;2;7;I Drink Wine;8,0;;0
+89;7;2;8;All Night Parking Interlude;8,5;Errol Garner;0
+90;7;2;9;Woman Like Me;7,0;;0
+91;7;2;10;Hold On;9,5;;0
+92;7;2;11;To Be Loved;9,0;;0
+93;7;2;12;Love Is A Game;10,0;;1
+94;15;4;1;Piano & I;;;0
+95;15;4;2;Girlfriend;7,5;;0
+96;15;4;3;How Come You Don't Call Me;6,0;;0
+97;15;4;4;Fallin';10,0;;1
+98;15;4;5;Troubles;8,5;;0
+99;15;4;6;Rock Wit U;8,0;;0
+100;15;4;7;A Woman's Worth;9,0;;0
+101;15;4;8;Jane Doe;7,0;;0
+102;15;4;9;Goodbye;7,5;;0
+103;15;4;10;The Life;7,0;;0
+104;15;4;11;Mr. Man;6,75;Jimmy Cozier;0
+105;15;4;12;Never Felt This Way;8,0;;0
+106;15;4;13;Butterflyz;7,0;;0
+107;15;4;14;Why Do I Feel so Sad;6,5;;0
+108;15;4;15;Caged Bird;7,0;;0
+109;15;4;16;Lovin U;8,5;;0
+110;16;4;1;Harlem's Nocturne;;;0
+111;16;4;2;Karma;9,5;;0
+112;16;4;3;Heartburn;8,0;;0
+113;16;4;4;If I Was Your Woman / Walk On By;7,0;;0
+114;16;4;5;You Don't Know My Name;10,0;;1
+115;16;4;6;If I Ain't Got You;10,0;;1
+116;16;4;7;Diary;8,5;Tony! Toni! Tone! & Jermaine Paul;0
+117;16;4;8;Dragon Days;7,0;;0
+118;16;4;9;Wake Up;8,0;;0
+119;16;4;10;So Simple;8,5;Lellow;0
+120;16;4;11;When You Really Love Someone;7,0;;0
+121;16;4;12;Feeling U, Feeling Me (Interlude);;;0
+122;16;4;13;Slow Down;7,5;;0
+123;16;4;14;Samsonite Man;6,5;;0
+124;16;4;15;Nobody Not Really (Interlude);9,0;;0
+125;17;4;1;As I Am (Intro);;;0
+126;17;4;2;Go Ahead;5,5;;0
+127;17;4;3;Superwoman;9,0;;0
+128;17;4;4;No One;10,0;;1
+129;17;4;5;Like You'll Never See Me Again;8,5;;0
+130;17;4;6;Lesson Learned;7,5;John Mayer;0
+131;17;4;7;Wreckless Love;8,0;;0
+132;17;4;8;The Thing About Love;6,0;;0
+133;17;4;9;Teenage Love Affair;8,5;;0
+134;17;4;10;I Need You;7,5;;0
+135;17;4;11;Where Do We Go from Here;7,0;;0
+136;17;4;12;Prelude To a Kiss;8,0;;0
+137;17;4;13;Tell You Something (Nana's Reprise);8,5;;0
+138;17;4;14;Sure Looks Good to Me;6,5;;0
+139;17;4;15;Another Way to Die;4,0;Jack White;0
+140;17;4;16;Doncha Know (Sky Is Blue);9,5;;0
+141;17;4;17;Saviour;9,0;;0
+142;18;4;1;The Element Of Freedom;;;0
+143;18;4;2;Love Is Blind;8,0;;0
+144;18;4;3;Doesn't Mean Anything;10,0;;0
+145;18;4;4;Try Sleeping with a Broken;8,0;;0
+146;18;4;5;Wait Til You See My Smile;5,5;;0
+147;18;4;6;That's How Strong My Love Is;7,5;;0
+148;18;4;7;Un-thinkable (I'm Ready);10,0;;1
+149;18;4;8;Love Is My Disease;8,0;;0
+150;18;4;9;Like the Sea;6,0;;0
+151;18;4;10;Put It In a Love Song;7,0;Beyoncé;0
+152;18;4;11;This Bed;6,5;;0
+153;18;4;12;Distance and Time;9,5;;0
+154;18;4;13;How it Feels to Fly;8,0;;0
+155;18;4;14;Empire State of Mind (Part II) Broken Down;10,0;;1
+156;19;4;1;De Novo Adagio (Intro);;;0
+157;19;4;2;Brand New Me;7,0;;0
+158;19;4;3;When It's All Over;6,0;;0
+159;19;4;4;Listen To Your Heart;7,5;;0
+160;19;4;5;New Day;10,0;;0
+161;19;4;6;Girl On Fire (Inferno Version);9,0;Nicky Minaj;0
+162;19;4;7;Fire We Make;8,0;Maxwell;0
+163;19;4;8;Tears Always Win;9,25;;0
+164;19;4;9;Not Even The King;4,0;;0
+165;19;4;10;That's When I Knew;6,0;;0
+166;19;4;11;Limitedless;9,5;;0
+167;19;4;12;One Thing;4,0;;0
+168;19;4;13;101;7,5;;0
+169;19;4;14;Girl On Fire;10,0;;0
+170;20;4;1;The Beginning (Interlude);;;0
+171;20;4;2;The Gospel;;;0
+172;20;4;3;Pawn It All;;;0
+173;20;4;4;Elaine Brown (Interlude);;;0
+174;20;4;5;Kill Your Mama;;;0
+175;20;4;6;She Don't Really Care_1 Luv;;;0
+176;20;4;7;Elevate (Interlude);;;0
+177;20;4;8;Illusion Of Bliss;;;0
+178;20;4;9;Blended Family (What You Do For Love);;A$AP Rocky;0
+179;20;4;10;Work On It;;;0
+180;20;4;11;Cocoa Butter (Cross & Pic Interlude);;;0
+181;20;4;12;Girl Can't Be Herself;;;0
+182;20;4;13;You Glow (Interlude);;;0
+183;20;4;14;More Than We Know;;;0
+184;20;4;15;Where Do We Begin Now;;;0
+185;20;4;16;Holy War;;;0
+186;20;4;17;Hallelujah;;;0
+187;20;4;18;In Common;;;0
+188;21;4;1;Truth Without Love;;;0
+189;21;4;2;Time Machine;;;0
+190;21;4;3;Authors Of Forever;;;0
+191;21;4;4;Wasted Energy;;Diamond Platnumz;0
+192;21;4;5;Underdog;;;0
+193;21;4;6;3 Hours Drive;;SAMPHA;0
+194;21;4;7;Me x 7;;Tierra Whack;0
+195;21;4;8;Show Me Love;;Miguel;0
+196;21;4;9;So Done;;Khalid;0
+197;21;4;10;Gramercy Park;;;0
+198;21;4;11;Love Looks Better;;;0
+199;21;4;12;You Save Me;;Snoh Aalegra;0
+200;21;4;13;Jill Scott;;Jill Scott;0
+201;21;4;14;Perfect Way To Die;;;0
+202;21;4;15;Good Job;;;0
+203;21;4;16;Three Hours Drive - A COLORS SHOWS;;SiR;0
+204;21;4;17;Beautiful Noise;;;0
+205;21;4;18;Wasted Energy;;Kaash Paige, Diamond Platnumz;0
+206;22;4;1;Plentiful;;Pusha T;0
+207;22;4;2;Skydive;;;0
+208;22;4;3;Best Of Me;;;0
+209;22;4;4;Dead End Road;;;0
+210;22;4;5;Is It Insane;;;0
+211;22;4;6;Billions;;;0
+212;22;4;7;Love When You Call My Name;;;0
+213;22;4;8;Only You;;;0
+214;22;4;9;Daffodils;;;0
+215;22;4;10;Old Memories;;;0
+216;22;4;11;Nat King Cole;;;0
+217;22;4;12;Paper Flowers;;Brandi Carlile;0
+218;22;4;13;Like Water;;;0
+219;22;4;14;Stay;;Lucky Daye;0
+220;22;4;15;In Common (Black Coffee Remix);;;0
+221;22;4;16;Keys;;;0
+222;22;4;17;Only You;;;0
+223;22;4;18;Skydive;;;0
+224;22;4;19;Best Of Me;;;0
+225;22;4;20;LALA;;Swae Lee;0
+226;22;4;21;Nat King Cole;;Lil Wayne;0
+227;22;4;22;Is It Insane;;;0
+228;22;4;23;Come For Me;;Khalid, Lucky Daye;0
+229;22;4;24;Old Memories;;;0
+230;22;4;25;Dead End Road;;;0
+231;22;4;26;Love When You Call My Name;;;0
+232;22;4;27;Daffodils;;;0
+233;22;4;28;Billions;;;0
+234;22;4;29;Trillions;9,0;Brent Faiyaz;0
+235;22;4;30;In Common (Kaskade Radio Mix);;;0
+236;25;5;1;Sweet Love;9,0;;0
+237;25;5;2;You Bring Me Joy;7,5;;0
+238;25;5;3;Caught Up In The Rapture Of Love;10,0;;0
+239;25;5;4;Been So Long;8,0;;0
+240;25;5;5;Mystery;6,5;;0
+241;25;5;6;No One In The World;9,0;;0
+242;25;5;7;Same Ole Love (365 Days a Week);8,5;;0
+243;25;5;8;Watch Your Step;9,0;;0
+244;26;5;1;Priceless;;;0
+245;26;5;2;Lead Me Into Love;;;0
+246;26;5;3;Giving You The Best That I Got;;;0
+247;26;5;4;Good Love;;;0
+248;26;5;5;Rules;;;0
+249;26;5;6;Good Enough;;;0
+250;26;5;7;Just Because;;;0
+251;26;5;8;You Belong to Me;;;0
+252;30;6;1;Honeymoon Avenue;;;0
+253;30;6;2;Baby I;;;0
+254;30;6;3;Right There;;Big Sean;0
+255;30;6;4;Tattoed Heart;;;0
+256;30;6;5;Lovin' It;;;0
+257;30;6;6;Piano;;;0
+258;30;6;7;Daydreamin';;;0
+259;30;6;8;The Way;;Mac Miller;0
+260;30;6;9;You'll Never Know;;;0
+261;30;6;10;Almost Is Never Enough;;Nathan Sykes;0
+262;30;6;11;Popular Song;;MIKA;0
+263;30;6;12;Better Left Unsaid;;;0
+264;31;6;1;Intro;;;0
+265;31;6;2;Problem;;Iggy Azalea;0
+266;31;6;3;One Last Time;;;0
+267;31;6;4;Why Try;;;0
+268;31;6;5;Break Free;;ZEDD;0
+269;31;6;6;Best Mistake;;Big Sean;0
+270;31;6;7;Be My Baby;;Cashmere Cat;0
+271;31;6;8;Break Your Heart Right Back;;Childish Gambino;0
+272;31;6;9;Love Me Harder;;The Weeknd;0
+273;31;6;10;Just A Little Bit Of Your H;;;0
+274;31;6;11;Hands On Me;;A$AP Ferg;0
+275;31;6;12;My Everything;;;0
+276;31;6;13;Bang Bang;;Jessie J, Nicky Minaj;0
+277;31;6;14;Only 1;;;0
+278;31;6;15;You Don't Know Me;;;0
+279;32;6;1;Moonlight;;;0
+280;32;6;2;Dangerous Woman;;;0
+281;32;6;3;Be Alright;;;0
+282;32;6;4;Into You;;;0
+283;32;6;5;Side To Side;;Nicki Minaj;0
+284;32;6;6;Let Me Love You;;Lil Wayne;0
+285;32;6;7;Greedy;;;0
+286;32;6;8;Leave Me Lonely;;Macy Gray;0
+287;32;6;9;Everyday;;Future;0
+288;32;6;10;Sometimes;;;0
+289;32;6;11;I Don't Care;;;0
+290;32;6;12;Bad Decisions;;;0
+291;32;6;13;Touch It;;;0
+292;32;6;14;Knew Better / Forever Boy;;;0
+293;32;6;15;Thinking Bout You;;;0
+294;32;6;16;Step On Up;;;0
+295;32;6;17;Jason's Song;;;0
+296;33;6;1;raindrops (an angel cried);;;0
+297;33;6;2;blazed;;Pharrel Williams;0
+298;33;6;3;the light is coming;;Nicky Minaj;0
+299;33;6;4;R.E.M;;;0
+300;33;6;5;God is a woman;;;0
+301;33;6;6;sweetener;;;0
+302;33;6;7;successful;;;0
+303;33;6;8;everytime;;;0
+304;33;6;9;breathin;;;0
+305;33;6;10;no tears left to cry;;;0
+306;33;6;11;borderline;;Missy Elliott;0
+307;33;6;12;better off;;;0
+308;33;6;13;goodnight n go;;;0
+309;33;6;14;pete davidson;;;0
+310;33;6;15;get well soon;;;0
+311;34;6;1;Imagine;;;0
+312;34;6;2;Needy;;;0
+313;34;6;3;NASA;;;0
+314;34;6;4;bloodline;;;0
+315;34;6;5;fake smile;;;0
+316;34;6;6;bad idea;;;0
+317;34;6;7;make up;;;0
+318;34;6;8;ghostin;;;0
+319;34;6;9;in my head;;;0
+320;34;6;10;7 rings;;;0
+321;34;6;11;thank u, next;;;0
+322;34;6;12;break up with your girlfriend, i'm bored;;;0
+323;35;6;1;shut up;;;0
+324;35;6;2;34+35;;;0
+325;35;6;3;motive;;Doja Cat;0
+326;35;6;4;just like magic;;;0
+327;35;6;5;off the table;;The Weeknd;0
+328;35;6;6;six thirty;;;0
+329;35;6;7;safety net;;Ty Dolla $ign;0
+330;35;6;8;my hair;;;0
+331;35;6;9;nasty;;;0
+332;35;6;10;west side;;;0
+333;35;6;11;love language;;;0
+334;35;6;12;positions;;;0
+335;35;6;13;obvious;;;0
+336;35;6;14;pov;;;0
+337;35;6;15;someone like u (interlude);;;0
+338;35;6;16;test drive;;;0
+339;35;6;17;34+35;;Doja Cat, Megan Thee Stallion;0
+340;35;6;18;worst behavior;;;0
+341;35;6;19;main thing;;;0
+342;36;6;1;intro (end of the world);;;0
+343;36;6;2;bye;;;0
+344;36;6;3;don't wanna break up again;;;0
+345;36;6;4;Saturn Returns Interlude;;;0
+346;36;6;5;eternal sunshine;;;0
+347;36;6;6;supernatural;;;0
+348;36;6;7;true story;;;0
+349;36;6;8;the boy is mine;;;0
+350;36;6;9;yes, and?;;;0
+351;36;6;10;we can't be friends (wait for your love);;;0
+352;36;6;11;i wish i hated you;;;0
+353;36;6;12;imperfect for you;;;0
+354;36;6;13;ordinary things;;Nonna;0
+355;36;6;14;intro (end of the world) (extened);;;0
+356;36;6;15;twilight zone;;;0
+357;36;6;16;warm;;;0
+358;36;6;17;dandelion;;;0
+359;36;6;18;past life;;;0
+360;36;6;19;Hampstead;;;0
+361;39;8;1;trademark usa;7,5;;0
+362;39;8;2;pink panties;8,5;;0
+363;39;8;3;scapegoats;7,0;;0
+364;39;8;4;range brothers;9,0;Kendrick Lamar;0
+365;39;8;5;issues;7,0;;0
+366;39;8;6;gorgeous;7,5;;0
+367;39;8;7;south africa;8,0;;0
+368;39;8;8;lost souls;9,0;;0
+369;39;8;9;cocoa;10,0;Don Toliver;0
+370;39;8;10;family ties;10,0;Kendrick Lamar;0
+371;39;8;11;scars;10,0;;0
+372;39;8;12;durga activity;6,5;Travis Scott;0
+373;39;8;13;booman;10,0;;0
+374;39;8;14;first order of business;9,0;;0
+375;39;8;15;vent;8,0;;0
+376;39;8;16;16;10,0;;0
+377;39;8;17;lost souls;10,0;Brent Faiyaz;0
+378;39;8;18;hooligan;7,5;;0
+379;39;8;19;no sense;8,0;;0
+380;39;8;20;a life of pain;7,0;;0
+381;39;8;21;killstreaks;8,5;Don Toliver, PinkPantheress;0
+382;39;8;22;patience interlude;7,5;;0
+383;39;8;23;naked freestyle;8,0;;0
+384;39;8;24;fine china;8,5;;0
+385;39;8;25;highway 95;9,0;;0
+386;39;8;26;bank account;9,5;Lil Uzi Vert;0
+387;40;8;1;No security;7,5;;0
+388;40;8;2;Ca$ino;9,5;;0
+389;40;8;3;Birds & Bees;8,5;;0
+390;40;8;4;Good Flirts;10,0;Kendrick Lamar, Momo Boyd;0
+391;40;8;5;House Money;9,0;;0
+392;40;8;6;I Am Not a Lyricist;9,5;;0
+393;40;8;7;$ex Appeal;9,0;Too $hort;0
+394;40;8;8;Highway 95 pt.2;8,0;;0
+395;40;8;9;Circus Circus Free$tyle;8,0;;0
+396;40;8;10;Dramatic Girl;10,0;Che Écru;0
+397;40;8;11;No Blame;7,5;;0
+398;41;9;1;Crazy in Love;8,0;Jay-Z;0
+399;41;9;2;Naughty Girl;8,0;;0
+400;41;9;3;Baby Boy;8,5;Sean Paul;0
+401;41;9;4;Hip Hop Star;6,0;Big Boi, Sleepy Brown;0
+402;41;9;5;Be With You;8,0;;0
+403;41;9;6;Me, Myself and I;9,0;;0
+404;41;9;7;Yes;7,5;;0
+405;41;9;8;Signs;7,0;Missy Elliott;0
+406;41;9;9;Speechless;8,0;;0
+407;41;9;10;That's How I Like It;6,0;Jay-Z;0
+408;41;9;11;The Closer I Get To You;10,0;Luther Vandross;0
+409;41;9;12;Dangerously In Love;10,0;;0
+410;41;9;13;Béyoncé Interlude;;;0
+411;41;9;14;Gift From Virgo;4,0;;0
+412;41;9;15;Daddy;8,0;;0
+413;42;9;1;Deja Vu;9,0;Jay-Z;0
+414;42;9;2;Get Me Bodied;6,0;;0
+415;42;9;3;Suga Mama;6,0;;0
+416;42;9;4;Upgrade U;9,5;Jay-Z;0
+417;42;9;5;Ring the Alarm;6,5;;0
+418;42;9;6;Kitty Kat;8,0;;0
+419;42;9;7;Freakdum Dress;7,0;;0
+420;42;9;8;Green Light;8,0;;0
+421;42;9;9;Irreplaceable;10,0;;0
+422;42;9;10;Resentment;7,5;;0
+423;43;9;1;If I Were A Boy;9,0;;0
+424;43;9;2;Halo;10,0;;0
+425;43;9;3;Disappear;7,5;;0
+426;43;9;4;Broken-Hearted Girl;5,5;;0
+427;43;9;5;Ave Maria;7,0;;0
+428;43;9;6;Smash Into You;6,5;;0
+429;43;9;7;Sattelites;7,0;;0
+430;43;9;8;That's Why You're Beautiful;7,0;;0
+431;43;9;9;Single Ladies;8,0;;0
+432;43;9;10;Radio;6,0;;0
+433;43;9;11;Diva;9,0;;0
+434;43;9;12;Sweet Dreams;10,0;;0
+435;43;9;13;Video Phones;7,5;;0
+436;43;9;14;Hello;7,0;;0
+437;43;9;15;Ego;9,0;;0
+438;44;9;1;Love On Top;10,0;;0
+439;44;9;2;Party;8,5;André 3000, Kanye West, Consequence;0
+440;44;9;3;Schoolin' Life;7,0;;0
+441;44;9;4;Countdown;8,5;;0
+442;44;9;5;I Miss You;10,0;Frank Ocean;0
+443;44;9;6;Dance For You;8,5;;0
+444;44;9;7;I Care;9,0;;0
+445;44;9;8;Rather Die Young;10,0;;0
+446;44;9;9;1+1;10,0;;0
+447;44;9;10;End Of Time;7,5;;0
+448;44;9;11;Run The World (Girls);8,5;;0
+449;44;9;12;Best Thing I Never Had;9,0;;0
+450;44;9;13;Start Over;6,5;;0
+451;44;9;14;I Was Here;6,75;;0
+452;45;9;1;Pray You Catch Me;6,0;;0
+453;45;9;2;Hold Up;8,0;;0
+454;45;9;3;Don't Hurt Yourself;4,0;Jack White;0
+455;45;9;4;Sorry;7,0;;0
+456;45;9;5;Inch;7,0;The Weeknd;0
+457;45;9;6;Daddy Lessons;6,0;;0
+458;45;9;7;Love Drought;8,5;;0
+459;45;9;8;Sandcastles;6,0;;0
+460;45;9;9;Forward;7,0;James Blake;0
+461;45;9;10;Freedom;7,0;Kendrick Lamar;0
+462;45;9;11;All Night;9,0;;0
+463;45;9;12;Formation;7,0;;0
+464;46;9;1;I'm That Girl;7,0;;0
+465;46;9;2;Cozy;6,0;;0
+466;46;9;3;Alien Superstar;6,5;;0
+467;46;9;4;Cuff It;7,5;;0
+468;46;9;5;Energy;8,0;Beam;0
+469;46;9;6;Break My Soul;6,0;;0
+470;46;9;7;Church Girl;8,5;;0
+471;46;9;8;Plastic Off The Sofa;7,0;;0
+472;46;9;9;Virgo's Groove;6,0;;0
+473;46;9;10;Move;7,0;Graces Jones, Tems;0
+474;46;9;11;Heated;7,5;;0
+475;46;9;12;Thique;8,0;;0
+476;46;9;13;All Up In Your Mind;7,0;;0
+477;46;9;14;America Has A Problem;8,0;;0
+478;46;9;15;Pure / Honey;7,0;;0
+479;46;9;16;Summer Renaissance;8,5;;0
+480;47;9;1;Ameriican Requiem;5,5;Tanner Adell, Brittney Spencer, Tiera Kennedy & Reyna Roberts;0
+481;47;9;2;Blackbiird;6,5;;0
+482;47;9;3;16 Carriages;7,0;;0
+483;47;9;4;Protector;7,5;Rumi Carter;0
+484;47;9;5;My Rose;6,0;;0
+485;47;9;6;Smoke Hour ★ Willie Nelson;6,5;Willie Nelson;0
+486;47;9;7;Texas Hold 'Em;7,5;;0
+487;47;9;8;Bodyguard;7,0;;0
+488;47;9;9;Dolly P;;Dolly Parton;0
+489;47;9;10;JOLENE;7,5;;0
+490;47;9;11;DAUGHTER;5,0;;0
+491;47;9;12;Spaghettii;4,0;Linda Martell & Shaboozey;0
+492;47;9;13;Alliigator Tears;5,0;;0
+493;47;9;14;Smoke Hour II;;Willie Nelson;0
+494;47;9;15;Just For Fun;6,5;Willie Jones (22);0
+495;47;9;16;II Most Wanted;6,0;Miley Cirus;0
+496;47;9;17;Levii's Jeans;7,0;Post Malone;0
+497;47;9;18;Flamenco;4,0;;0
+498;47;9;19;The Linda Martell Show;;;0
+499;47;9;20;Ya Ya;6,0;;0
+500;47;9;21;Oh Louisiana;;;0
+501;47;9;22;Desert Eagle;7,0;;0
+502;47;9;23;Riiverdance;6,0;;0
+503;47;9;24;II Hands II Heaven;8,0;;0
+504;47;9;25;Tyrant;7,5;Dolly Parton;0
+505;47;9;26;Sweet ★ Honey ★ Buckiin';7,0;Shaboozey;0
+506;47;9;27;Amen;6,5;;0
+507;49;10;1;Getting Older;;;0
+508;49;10;2;I Didn't Change My Number;;;0
+509;49;10;3;Billie Bossa Nova;;;0
+510;49;10;4;my future;;;0
+511;49;10;5;Oxytocin;;;0
+512;49;10;6;GOLDWING;;;0
+513;49;10;7;Lost Cause;;;0
+514;49;10;8;Halley's Comet;;;0
+515;49;10;9;Not My Responsability;;;0
+516;49;10;10;OverHeated;;;0
+517;49;10;11;Everybody Dies;;;0
+518;49;10;12;Your Power;;;0
+519;49;10;13;NDA;;;0
+520;49;10;14;Therefore I Am;;;0
+521;49;10;15;Happier Than Ever;5,0;;0
+522;49;10;16;Male Fantasy;;;0
+523;50;10;1;SKINNY;5,5;;0
+524;50;10;2;LUNCH;7,0;;0
+525;50;10;3;CHIHIRO;4,0;;0
+526;50;10;4;BIRDS OF A FEATHER;8,5;;0
+527;50;10;5;WILDFLOWER;8,0;;0
+528;50;10;6;THE GREATEST;6,0;;0
+529;50;10;7;L'AMOUR DE MA VIE;3,0;;0
+530;50;10;8;THE DINER;5,0;;0
+531;50;10;9;BITTERSUITE;4,0;;0
+532;50;10;10;BLUE;3,5;;0
+533;51;11;1;Lovely;8,0;;0
+534;51;11;2;Insecure;7,0;;0
+535;51;11;3;Invite Me;7,0;;0
+536;51;11;4;Poison;10,0;;0
+537;51;11;5;No One Knows;10,0;;0
+538;52;11;1;Home;6,0;;0
+539;52;11;2;Gang Over Luv;7,0;;0
+540;52;11;3;Burn One (Interlude);6,5;;0
+541;52;11;4;First Word Problemz / Nobody Carez;10,0;;0
+542;52;11;5;Missin Out;9,0;;0
+543;52;11;6;Stay Down;8,0;;0
+544;52;11;7;L.A.;8,0;;0
+545;52;11;8;Talk 2 U;7,0;;0
+546;52;11;9;Sonder Son (Interlude);6,5;;0
+547;52;11;10;So Far Gone / Fast Life Bluez;7,5;;0
+548;52;11;11;Needed;9,0;;0
+549;52;11;12;All I Want;8,0;;0
+550;53;11;1;Why'z It So Hard;7,0;;0
+551;53;11;2;Came Right Back;8,0;;0
+552;53;11;3;Trust;8,5;;0
+553;53;11;4;Around Me;6,5;;0
+554;53;11;5;Poundz;8,75;;0
+555;53;11;6;Target On My Chest;9,0;;0
+556;54;11;1;Skyline;7,0;;0
+557;54;11;2;Clouded;10,0;;0
+558;54;11;3;Been Away;9,0;;0
+559;54;11;4;Fuck The World (Summer in London);6,5;;0
+560;54;11;5;Let me Know;7,5;;0
+561;54;11;6;Soon Az I Get Home;7,0;;0
+562;54;11;7;Rehab (Winter In Paris);8,5;;0
+563;54;11;8;Bluffin;7,0;;0
+564;54;11;9;Lost Kids Get Money;8,0;;0
+565;54;11;10;Make It Out;;;0
+566;55;11;1;VILLAIN'S THEME;;;0
+567;55;11;2;LOOSE CHANGE;9,0;;0
+568;55;11;3;GRAVITY;9,0;Dahi, Tyler The Creator;0
+569;55;11;4;HEAL YOUR HEART (INTERLUDE);8,0;;0
+570;55;11;5;SKIT: EGOMANIAC;;;0
+571;55;11;6;ALL MINE;9,0;;0
+572;55;11;7;PRICE OF FAME;8,5;;0
+573;55;11;8;GHETTO GATSBY;8,5;Alicia Keys;0
+574;55;11;9;WASTING TIME;9,5;Drake, The Neptunes;0
+575;55;11;10;ROLLING STONE;9,0;;0
+576;55;11;11;FYTB;9,0;Joony;0
+577;55;11;12;SKIT: OBLIVION;;;0
+578;55;11;13;DEAD MAN WALKING;9,0;;0
+579;55;11;14;ADDICTIONS;10,0;;0
+580;55;11;15;ROLE MODEL;8,5;;0
+581;55;11;16;JACKIE BROWN;8,0;;0
+582;55;11;17;BAD LUCK;9,0;;0
+583;55;11;18;SKIT: WAKE UP CALL;;;0
+584;55;11;19;ANGEL;7,5;;0
+585;56;11;1;Tim's Intro;8,0;;0
+586;56;11;2;Last One Left;7,5;Lil Gray & Missy Elliot;0
+587;56;11;3;Forever Your;7,0;;0
+588;56;11;4;Best Time;9,0;;0
+589;56;11;5;Big Mad Skit;;Princess Cro, Flee;0
+590;56;11;6;Moment Of Your Life;9,5;Coco Jones;0
+591;56;11;7;Outside All Night;10,0;A$AP Rocky & N3WYRKLA;0
+592;56;11;8;Wherever I Go;7,0;;0
+593;56;11;9;Upset;8,0;Tommy Richman & FELIX!;0
+594;56;11;10;On This Side;7,0;CruddyMurda, A$AP ANT;0
+595;56;11;11;Dawged Em Skit;;TTM Dawg;0
+596;56;11;12;Belong To You;7,0;Babyface Ray;0
+597;56;11;13;WY@;10,0;;0
+598;56;11;14;Pistachios;8,0;;0
+599;57;11;1;white noise.;;;0
+600;57;11;2;wrong faces.;8,5;;0
+601;57;11;3;have to.;10,0;;0
+602;57;11;4;butterflies.;10,0;;0
+603;57;11;5;other side.;9,0;;0
+604;57;11;6;strangers.;9,0;;0
+605;57;11;7;world is yours.;8,0;;0
+606;57;11;8;four seasons.;10,0;;0
+607;57;11;9;pure fantasy.;9,0;;0
+608;57;11;10;vanilla sky.;10,0;;0
+609;57;11;11;full moon (fall in tokyo);8,0;;0
+610;57;11;12;1 for you (spring in new york);8,5;;0
+611;58;12;1;Grenade;8,5;;0
+612;58;12;2;Just the Way You Are;10,0;;0
+613;58;12;3;Our First Time;9,0;;0
+614;58;12;4;Runaway Baby;7,0;;0
+615;58;12;5;The Lazy Song;7,5;;0
+616;58;12;6;Marry You;8,5;;0
+617;58;12;7;Talking To The Moon;9,0;;0
+618;58;12;8;Liquor Store Blues;5,5;Damian Marley;0
+619;58;12;9;Count On Me;8,5;;0
+620;58;12;10;The Other Side;6,5;B.O.B, CeeLo Green;0
+621;58;12;11;Somewhere In Brooklyn;7,0;;0
+622;59;12;1;Young Girls;8,0;;0
+623;59;12;2;Locked Out of Heaven;10,0;;0
+624;59;12;3;Gorilla;9,0;;0
+625;59;12;4;Treasure;10,0;;0
+626;59;12;5;Moonshine;8,5;;0
+627;59;12;6;When I Was Your Man;10,0;;0
+628;59;12;7;Natalie;8,25;;0
+629;59;12;8;Show Me;10,0;;0
+630;59;12;9;Money Make Her Smile;3,0;;0
+631;59;12;10;If I Knew;9,5;;0
+632;60;12;1;24k Magic;8,0;;0
+633;60;12;2;Chunky;7,5;;0
+634;60;12;3;Perm;6,0;;0
+635;60;12;4;That's What I Like;8,5;;0
+636;60;12;5;Versace On The Floor;10,0;;0
+637;60;12;6;Straight Up & Down;7,0;;0
+638;60;12;7;Calling All My Lovelies;10,0;;0
+639;60;12;8;Finesse;9,0;;0
+640;60;12;9;Too Good To Say Goodbye;10,0;;0
+641;61;12;1;Silk Sonic Intro;;Bootsy Collins;0
+642;61;12;2;Leave The Door Open;10,0;;0
+643;61;12;3;Fly As Me;10,0;;0
+644;61;12;4;After Last Night;8,5;Thundercat, Bootsy Collins, Krystal Miles;0
+645;61;12;5;Smoking Out The Window;10,0;;0
+646;61;12;6;Put On A Smile;8,5;Bootsy Collins;0
+647;61;12;7;777;7,0;;0
+648;61;12;8;Skate;10,0;;0
+649;61;12;9;Love's Train;10,0;;1
+650;61;12;10;Blast Off;10,0;Bootsy Collins;0
+651;62;12;1;Risk It All;10,0;;0
+652;62;12;2;Cha Cha Cha;8,0;;0
+653;62;12;3;I Just Might;8,0;;0
+654;62;12;4;God Was Showing Off;8,5;;0
+655;62;12;5;Why You Wanna Fight;10,0;;0
+656;62;12;6;On My Soul;8,0;;0
+657;62;12;7;Something Serious;6,5;;0
+658;62;12;8;Nothing Left;7,5;;0
+659;62;12;9;Dance With Me;9,0;;0
+660;63;13;1;One Call Away;7,0;;0
+661;63;13;2;Dangerously;6,5;;0
+662;63;13;3;Marvin Gaye;9,5;Meghan Trainor;0
+663;63;13;4;Losing My Mind;7,0;;0
+664;63;13;5;We Don't Talk Anymore;8,0;Selena Gomez;0
+665;63;13;6;My Gospel;7,0;;0
+666;63;13;7;Up All Night;6,75;;0
+667;63;13;8;Then There's You;4,0;;0
+668;63;13;9;Suffer;6,0;;0
+669;63;13;10;As You Are;9,5;Shy Carter;0
+670;63;13;11;Some Type Of Love;8,5;;0
+671;63;13;12;See You Again;8,0;Wiz Khalifa;0
+672;64;13;1;The Way I Am;6,0;;0
+673;64;13;2;Attention;8,0;;0
+674;64;13;3;LA Girls;7,0;;0
+675;64;13;4;How Long;7,5;;0
+676;64;13;5;Done For Me;8,0;Kehlani;0
+677;64;13;6;Patient;6,0;;0
+678;64;13;7;If You Leave Me Now;8,5;Boyz II Men;0
+679;64;13;8;BOY;7,0;;0
+680;64;13;9;Slow It Down;6,5;;0
+681;64;13;10;Change;7,0;James Taylor;0
+682;64;13;11;Somebody Told Me;6,5;;0
+683;64;13;12;Empty Cups;7,0;;0
+684;64;13;13;Throught It All;8,0;;0
+685;65;13;1;That's Hilarious;6,5;;0
+686;65;13;2;Charlie Be Quiet!;4,0;;0
+687;65;13;3;Light Switch;7,0;;0
+688;65;13;4;There's A First Time For Everything;6,0;;0
+689;65;13;5;Smells Like Me;6,0;;0
+690;65;13;6;Left And Right;7,0;JungKook, BTS;0
+691;65;13;7;Loser;5,5;;0
+692;65;13;8;When You're Sad;6,5;;0
+693;65;13;9;Marks On My Neck;3,5;;0
+694;65;13;10;Tears On My Piano;5,0;;0
+695;65;13;11;I Don't Think That I Like Her;6,5;;0
+696;65;13;12;No More Drama;7,5;;0
+697;66;13;1;Changes;;;0
+698;66;13;2;Beat Yourself Up;;;0
+699;66;13;3;Cry;;Kenny G;0
+700;66;13;4;Washed Up;;;0
+701;66;13;5;New Jersey;;Ravyn Lenae;0
+702;66;13;6;Don't Meet Your Heroes;;;0
+703;66;13;7;Home;;Hikaru Utada;0
+704;66;13;8;Hey Brother;;;0
+705;66;13;9;Sideways;;Coco Jones;0
+706;66;13;10;Love In Exiles;;Michael McDonald, Kenny Loggins;0
+707;66;13;11;Until It Happens To You;;Jeff Goldblum & The Mildred Snitzer Orchestra;0
+708;66;13;12;I Used To Be Cringe;;;0
+709;80;17;1;Brown Sugar;10,0;;0
+710;80;17;2;Alright;8,5;;0
+711;80;17;3;Jonz In My Benz;8,0;;0
+712;80;17;4;Me And Those Dreamin' Eyes Of Mine;7,5;;0
+713;80;17;5;Shit, Damn, Motherfucker;8,0;;0
+714;80;17;6;Smooth;7,0;;0
+715;80;17;7;Cruisin';10,0;;0
+716;80;17;8;When We Get By;7,5;;0
+717;80;17;9;Lady;8,0;;0
+718;80;17;10;Higher;7,5;;0
+719;81;17;1;Playa Playa;6,0;;0
+720;81;17;2;Devil's Pie;8,0;;0
+721;81;17;3;Left And Right;7,5;Redman, Method Man;0
+722;81;17;4;The Line;9,0;;0
+723;81;17;5;Send It On;7,75;;0
+724;81;17;6;Chicken Grease;7,0;;0
+725;81;17;7;One Mo'Gin;8,0;;0
+726;81;17;8;The Root;8,0;;0
+727;81;17;9;Spanish Joint;8,5;;0
+728;81;17;10;Feel Like Makin' Love;9,0;;0
+729;81;17;11;Greatdayndamornin'/Booty;7,5;;0
+730;81;17;12;Untitled (How Does It Feel);10,0;;0
+731;81;17;13;Africa;8,0;;0
+732;82;17;1;Ain't That Easy;8,0;;0
+733;82;17;2;1000 Deaths;4,5;;0
+734;82;17;3;The Charade;7,5;;0
+735;82;17;4;Sugah Daddy;6,5;;0
+736;82;17;5;Really Love;8,25;;0
+737;82;17;6;Back to the Future (Part I);8,0;;0
+738;82;17;7;Till It's Done (Tutu);8,0;;0
+739;82;17;8;Prayer;7,0;;0
+740;82;17;9;Betray My Heart;7,5;;0
+741;82;17;10;The Door;7,75;;0
+742;82;17;11;Back to the Future (Part II);6,5;;0
+743;82;17;12;Another Life;8,0;;0
+744;83;18;1;Trinity Bellwoods;;;0
+745;83;18;2;Death & Taxes;;;0
+746;83;18;3;Paradise;;BADBADNOTGOOD, Sean Leon;0
+747;83;18;4;A Capella;;;0
+748;83;18;5;Streetcar;9,0;;0
+749;83;18;6;Show No Regret;;;0
+750;83;18;7;Little Rowboat;;;0
+751;84;18;1;Get you;10,0;Kali Uchis;0
+752;84;18;2;Best Part;10,0;H.E.R;1
+753;84;18;3;Hold me Down;9,5;;0
+754;84;18;4;Neu Roses (Transgressor’s Song);8,0;;0
+755;84;18;5;Loose;6,5;;0
+756;84;18;6;We Find Love;9,0;;0
+757;84;18;7;Blessed;10,0;;0
+758;84;18;8;Take me Away;8,0;Syd;0
+759;84;18;9;Transform;8,0;Charlotte Day Wilson;0
+760;84;18;10;Freudian;8,5;;0
+761;85;18;1;ENTROPY;7,0;;0
+762;85;18;2;CYANIDE;10,0;;0
+763;85;18;3;LOVE AGAIN;10,0;Brandy;0
+764;85;18;4;FRONTAL LOBE MUZIK;5,0;Pharrell Williams;0
+765;85;18;5;OPEN UP;7,0;;0
+766;85;18;6;RESTORE THE FEELING;6,5;;0
+767;85;18;7;SUPERPOSITION;5,0;;0
+768;85;18;8;TOO DEEP TO TURN BACK;7,5;Sean Leon, Jacob Collier;0
+769;85;18;9;COMPLEXITIES;6,0;;0
+770;85;18;10;ARE YOU OK?;7,0;;0
+771;86;18;1;Ocho Rios;9,0;;0
+772;86;18;2;Valentina;10,0;;0
+773;86;18;3;Toronto 2014;10,0;Mustafa;0
+774;86;18;4;Let me Go;7,5;;0
+775;86;18;5;Do you like me ?;8,0;;0
+776;86;18;6;Always;10,0;;0
+777;86;18;7;Cool;6,5;;0
+778;86;18;8;Disillusioned;8,0;Serpentwithfeet;0
+779;86;18;9;Buyer's Remorse;7,0;Omar Appolo;0
+780;86;18;10;Shot My Baby;7,0;;0
+781;86;18;11;Pain Is Inevitable;7,0;;0
+782;86;18;12;Homiesexual;10,0;Ty dolla $ign;0
+783;86;18;13;Vince Van Gogh;6,5;;0
+784;86;18;14;Superpowers;10,0;;0
+785;86;18;15;Unstoppable;10,0;;0
+786;87;18;1;Rain Down;9,5;Sampha;0
+787;87;18;2;Have A Baby (With Me);10,0;;0
+788;87;18;3;Call On Me;8,0;;0
+789;87;18;4;Baby Blue;7,5;Norwill Simmonds;0
+790;87;18;5;Root of all Evil;7,0;;0
+791;87;18;6;Who Knows;10,0;;0
+792;87;18;7;Moon;;Bon Iver;0
+793;87;18;8;Touching God;;Yebba, Blood Orange;0
+794;87;18;9;Sign Of The Times;;;0
+795;87;18;10;Emily's Song;;;0
+796;87;18;11;No More Loving (On Women I Don't Love);;646yf4t;0
+797;87;18;12;Sins Of The Father;;Bon Iver;0
+798;88;19;1;Go To Town;;;0
+799;88;19;2;Cookie Jar;;;0
+800;88;19;3;Roll With Us;;;0
+801;88;19;4;Wine Pon You;;Konshens;0
+802;88;19;5;Fancy;;;0
+803;88;19;6;Wild Beach;;;0
+804;88;19;7;Morning Light;;;0
+805;88;19;8;Candy;;;0
+806;88;19;9;Game;;;0
+807;88;19;10;Casual;;;0
+808;88;19;11;Down Low;;;0
+809;88;19;12;Body Language;;;0
+810;88;19;13;All Nighter;;;0
+811;88;19;14;Juicy;;;0
+812;88;19;15;Tia Tamera;;Rico Nasty;0
+813;88;19;16;MOOO!;;;0
+814;89;19;1;Cyber Sex;8,0;;0
+815;89;19;2;Won't Bite;9,5;Smino;0
+816;89;19;3;Rules;8,5;;0
+817;89;19;4;Bottom Bitch;7,0;;0
+818;89;19;5;Say So;10,0;;0
+819;89;19;6;Like That;9,0;Gucci Mane;0
+820;89;19;7;Talk Dirty;7,5;;0
+821;89;19;8;Addiction;8,0;;0
+822;89;19;9;Streets;10,0;;0
+823;89;19;10;Shine;7,0;;0
+824;89;19;11;Better Than Me;7,5;;0
+825;89;19;12;Juicy;10,0;Tyga;0
+826;90;19;1;Woman;9,0;;0
+827;90;19;2;Naked;8,75;;0
+828;90;19;3;Payday;10,0;Young Thug;0
+829;90;19;4;Get Into It (Yuh);10,0;;0
+830;90;19;5;Need to Know;10,0;;0
+831;90;19;6;I Don't Do Drugs;8,5;Ariana Grande;0
+832;90;19;7;Love To Dream;10,0;;0
+833;90;19;8;You Right;9,0;The Weeknd;0
+834;90;19;9;Been Like This;8,25;;0
+835;90;19;10;Options;8,0;JID;0
+836;90;19;11;Ain't Shit;8,0;;0
+837;90;19;12;Imagine;7,0;;0
+838;90;19;13;Alone;7,5;;0
+839;90;19;14;Kiss Me More;10,0;SZA;0
+840;90;19;15;You Right (Extended);8,0;The Weeknd;0
+841;90;19;16;Up And Down;7,0;;0
+842;90;19;17;Tonight;8,0;Eve;0
+843;90;19;18;Ride;9,0;;0
+844;90;19;19;Why Why;7,5;Gunna;0
+845;91;19;1;ACKNOWLEDGE ME;;;0
+846;91;19;2;DISRESPECTFUL;;;0
+847;91;19;3;URRRGE!!!!!!!!!!;;A$AP ROCKY;0
+848;91;19;4;OKLOSER;;;0
+849;91;19;5;MASC;;Teezy Touchdown;0
+850;91;19;6;PISS;;;0
+851;91;19;7;HEADHIGH;;;0
+852;91;19;8;Paint The Town Red;7,5;;0
+853;91;19;9;Demons;;;0
+854;91;19;10;Wet Vagina;;;0
+855;91;19;11;Fuck The Girls (FTG);;;0
+856;91;19;12;Ouchies;;;0
+857;91;19;13;97;;;0
+858;91;19;14;Gun;;;0
+859;91;19;15;Go Off;;;0
+860;91;19;16;Shutcho;;;0
+861;91;19;17;Agora Hills;10,0;;0
+862;91;19;18;Can't Wait;;;0
+863;91;19;19;Often;;;0
+864;91;19;20;Love Life;;;0
+865;91;19;21;Skull And Bones;;;0
+866;91;19;22;Attention;;;0
+867;91;19;23;Balut;;;0
+868;91;19;24;WYM Freestyle;;;0
+869;92;19;1;Cards;;;0
+870;92;19;2;Jealous Type;;;0
+871;93;21;1;Rim Shot (Intro);7,0;;0
+872;93;21;2;On & On;10,0;;0
+873;93;21;3;Appletree;7,5;;0
+874;93;21;4;Other Side Of The Game;6,5;;0
+875;93;21;5;Sometimes (Mix#9);;;0
+876;93;21;6;Next Lifetime;7,5;;0
+877;93;21;7;Afro;6,5;;0
+878;93;21;8;Certainly;7,0;;0
+879;93;21;9;4 Leaf Clover;8,0;;0
+880;93;21;10;No Love;7,5;;0
+881;93;21;11;Drama;8,0;;0
+882;93;21;12;Sometimes;7,0;;0
+883;93;21;13;Certainly (Flipped It);7,5;;0
+884;93;21;14;Rim Shot (Outro);8,0;;0
+885;94;21;1;Penitentiary Philosophy;8,0;;0
+886;94;21;2;Didn't Cha Know;10,0;;0
+887;94;21;3;My Life;9,5;;0
+888;94;21;4;…& On;10,0;;0
+889;94;21;5;Cleva;8,5;Roy Ayers;0
+890;94;21;6;Hey Sugah (Interlude);;;0
+891;94;21;7;Booty;8,0;;0
+892;94;21;8;Kiss Me On My Neck;9,0;;0
+893;94;21;9;A.D. 2000;8,0;;0
+894;94;21;10;Orange Moon;9,0;;0
+895;94;21;11;In Love With You;10,0;Stephen Marley;1
+896;94;21;12;Bag Lady;9,0;;0
+897;94;21;13;Time's A Wastin;9,0;;0
+898;94;21;14;Green Eyes;9,5;;0
+899;95;21;1;Intro (World Keeps Turnin');;;0
+900;95;21;2;Bump It;8,0;;0
+901;95;21;3;Back In The Day;7,0;;0
+902;95;21;4;I Want You;7,5;;0
+903;95;21;5;Woo;7,0;;0
+904;95;21;6;The Grind;7,5;Dead Prez;0
+905;95;21;7;Danger;8,0;;0
+906;95;21;8;Think Twice;8,0;;0
+907;95;21;9;Love Of My Life Worldwide;9,0;Queen Latifah,  Angie Stone, Bahamadia;0
+908;95;21;10;Outro (World Keeps Turnin');;;0
+909;95;21;11;Love Of My Life (An Ode To Hip Hop);8,5;Common;0
+910;96;21;1;Amerykah Promise;7,0;;0
+911;96;21;2;The Healer;5,0;;0
+912;96;21;3;Me;7,5;;0
+913;96;21;4;My People;6,0;;0
+914;96;21;5;Soldier;5,0;;0
+915;96;21;6;The Cell;6,5;;0
+916;96;21;7;Twinkle;7,0;;0
+917;96;21;8;Master Teacher Medley;7,5;;0
+918;96;21;9;That Hump;8,0;;0
+919;96;21;10;Telephone;7,0;;0
+920;96;21;11;Honey;9,0;;0
+921;97;21;1;20 Feet Tall;7,5;;0
+922;97;21;2;Window Seat;8,0;;0
+923;97;21;3;Agitation;6,5;;0
+924;97;21;4;Get MuNNY;8,5;;0
+925;97;21;5;Gone Baby, Don't Be Long;8,0;;0
+926;97;21;6;Umm Hmm;10,0;;0
+927;97;21;7;Love;8,0;;0
+928;97;21;8;You Loving Me;7,0;;0
+929;97;21;9;Fall In Love (Your Funeral);7,5;;0
+930;97;21;10;Incense;8,0;Kirsten Agresta;0
+931;97;21;11;Out My Mind, Just In Time;7,0;;0
+932;101;23;1;street fighter;;;0
+933;101;23;2;strawberry swing;9,0;;0
+934;101;23;3;Novacane;10,0;;1
+935;101;23;4;We All Try;9,5;;0
+936;101;23;5;Bitches Talking;;;0
+937;101;23;6;Song For Women;9,5;;0
+938;101;23;7;Lovecrimes;10,0;;0
+939;101;23;8;Goldeneye;;;0
+940;101;23;9;There Will Be Tears;10,0;;0
+941;101;23;10;Swim Good;9,5;Tyler, The Creator;0
+942;101;23;11;Dust;10,0;;0
+943;101;23;12;American Wedding;9,5;;0
+944;101;23;13;Soul Calibur;;;0
+945;101;23;14;Nature Feels;8,5;;0
+946;102;23;1;Start;;;0
+947;102;23;2;Thinkin' Bout You;10,0;;0
+948;102;23;3;Fertilizer;;;0
+949;102;23;4;Sierra Leone;9,5;;0
+950;102;23;5;Sweet Life;9,0;;0
+951;102;23;6;Not Just Money;;;0
+952;102;23;7;Super Rich Kids;9,5;Earl Sweatshirt;0
+953;102;23;8;Pilot Jones;9,0;;0
+954;102;23;9;Crack Rock;9,0;;0
+955;102;23;10;Pyramids;10,0;;0
+956;102;23;11;Lost;10,0;;0
+957;102;23;12;White;7,0;John Mayer;0
+958;102;23;13;Monks;9,0;;0
+959;102;23;14;Bad Religion;10,0;;0
+960;102;23;15;Pink Matter;10,0;André 3000;1
+961;102;23;16;Forrest Gump;8,0;;0
+962;102;23;17;End;6,5;;0
+963;103;23;1;Nikes;9,0;;0
+964;103;23;2;Ivy;9,5;;0
+965;103;23;3;Pink + White;10,0;;0
+966;103;23;4;Be Yourself;;;0
+967;103;23;5;Solo;10,0;;0
+968;103;23;6;Skyline To;8,5;;0
+969;103;23;7;Self Control;10,0;;0
+970;103;23;8;Good Guy;8,0;;0
+971;103;23;9;Nights;10,0;;0
+972;103;23;10;Solo (Reprise);8,5;André 3000;0
+973;103;23;11;Pretty Sweet;8,5;;0
+974;103;23;12;Facebook Story;;;0
+975;103;23;13;Close To You;8,5;;0
+976;103;23;14;White Ferrari;10,0;Kanye West;0
+977;103;23;15;Seigfried;10,0;;0
+978;103;23;16;Godspeed;10,0;;0
+979;103;23;17;Futura Free;8,0;;0
+980;104;23;1;Device Control;;;0
+981;104;23;2;At Your Best (You Are Love);10,0;;0
+982;104;23;3;Alabama;8,0;Sampha, Jazmine Sullivan;0
+983;104;23;4;Mine;8,5;;0
+984;104;23;5;Unity;8,0;;0
+985;104;23;6;A Certain Way (Ambience 001);;;0
+986;104;23;7;Comme Des Garçons;9,0;;0
+987;104;23;8;Xenons;8,5;;0
+988;104;23;9;Honeybaby (Ambience 002);;;0
+989;104;23;10;Wither;7,5;;0
+990;104;23;11;Hublots;8,0;;0
+991;104;23;12;Walk Away;;;0
+992;104;23;13;In Here Somewhere;6,0;;0
+993;104;23;14;Slide On Me;8,0;;0
+994;104;23;15;Sideways;8,0;;0
+995;104;23;16;Florida;7,5;;0
+996;104;23;17;Impietas + Deathwish (ASR);8,5;;0
+997;104;23;18;Rushes;10,0;;0
+998;104;23;19;Rushes To;9,0;;0
+999;104;23;20;Higgs;9,0;;0
+1000;104;23;21;Mitsubishi Sony;10,0;;0
+1001;104;23;22;Device Control (Reprise);8,5;;0
+1002;108;25;1;Awakening;8,0;;0
+1003;108;25;2;You're my baby;9,0;;0
+1004;108;25;3;Blue and moody music;7,5;;0
+1005;108;25;4;Only a love affair;10,0;;0
+1006;108;25;5;Love and peace;7,0;;0
+1007;108;25;6;From me to you;9,0;;0
+1008;108;25;7;I can't wait;10,0;;0
+1009;108;25;8;It isnt easy;9,5;;0
+1010;108;25;9;Awakening;6,5;;0
+1011;108;25;10;Say goodbye;10,0;;0
+1012;108;25;11;Blue and moody music (Wendy's Version);10,0;;0
+1013;114;26;1;Dancin' Around The World;7,5;;0
+1014;114;26;2;Insatiable Woman;8,5;;0
+1015;114;26;3;I Can Hardly Wait;8,0;;0
+1016;114;26;4;Liberation;7,5;;0
+1017;114;26;5;Caravan of Love;10,0;;1
+1018;114;26;6;If You Believe In Love;8,0;;0
+1019;114;26;7;High Heel Syndrome;9,0;;0
+1020;116;27;1;Interlude: Pledge;;;0
+1021;116;27;2;Rythm Nation;;;0
+1022;116;27;3;Interlude: T.V.;;;0
+1023;116;27;4;State Of The World;;;0
+1024;116;27;5;Interlude: Race;;;0
+1025;116;27;6;The Knowledge;;;0
+1026;116;27;7;Interlude: Let's Dance;;;0
+1027;116;27;8;Miss You Much;;;0
+1028;116;27;9;Interlude: Come Back;;;0
+1029;116;27;10;Love Will Never Do (Without You);;;0
+1030;116;27;11;Livin' In A World (They Didn't Make);;;0
+1031;116;27;12;Alright;;;0
+1032;116;27;13;Interlude: Hey Baby;;;0
+1033;116;27;14;Escapade;;;0
+1034;116;27;15;Interlude: No Acid;;;0
+1035;116;27;16;Black Cat;;;0
+1036;116;27;17;Lonely;;;0
+1037;116;27;18;Come Back To Me;;;0
+1038;116;27;19;Someday Is Tonight;;;0
+1039;116;27;20;Interlude: Livin'…In Complete Darkness;;;0
+1040;125;30;1;Lost & Found;7,5;;0
+1041;125;30;2;Teenage Fantasy;9,0;;0
+1042;125;30;3;Where Did I Go?;4,0;;0
+1043;125;30;4;February 3rd;;;0
+1044;125;30;5;On Your Own;;;0
+1045;125;30;6;The One;;;0
+1046;125;30;7;Wandering Romance;;;0
+1047;125;30;8;Blue Lights;;;0
+1048;125;30;9;Lifeboats (Freestyle);;;0
+1049;125;30;10;Goodbyes;;;0
+1050;125;30;11;Tomorrow;;;0
+1051;125;30;12;Don't Watch Me Cry;;;0
+1052;125;30;13;Be Honest;;Burna Boy;0
+1053;128;31;1;Body Language;9,0;;0
+1054;128;31;2;Miami;7,5;BIA;0
+1055;128;31;3;Just A Stranger;9,5;Steve Lacy;0
+1056;128;31;4;Flight 22;8,5;;0
+1057;128;31;5;Your Teeth In My Neck;9,0;;0
+1058;128;31;6;Tyrant;10,0;Jorja Smith;0
+1059;128;31;7;Dead To Me;10,0;;0
+1060;128;31;8;Nuestro Planeta;10,0;Reykon;0
+1061;128;31;9;In My Dreams;10,0;;0
+1062;128;31;10;Gotta Get Up;8,0;;0
+1063;128;31;11;Tomorrow;8,5;;0
+1064;128;31;12;Coming Home;8,0;;0
+1065;128;31;13;After The Storm;9,5;Tyler, The Creator, Bootsy Collins;0
+1066;128;31;14;Feel Like A Fool;7,0;;0
+1067;128;31;15;Killer;9,0;;0
+1068;129;31;1;la luna enamorada;6,0;;0
+1069;129;31;2;fue mejor;7,5;PARTYNEXTDOOR;0
+1070;129;31;3;//aguardiente y limón %ᵕ‿‿ᵕ%;7,0;;0
+1071;129;31;4;vaya con dios;6,5;;0
+1072;129;31;5;que te pedí//;5,0;;0
+1073;129;31;6;quiero sentirme bien;7,5;;0
+1074;129;31;7;telepatía;10,0;;0
+1075;129;31;8;no eres tu(soy yo);8,5;;0
+1076;129;31;9;de nadie;9,25;;0
+1077;129;31;10;¡aquí yo mando!;7,5;Rico Nasty;0
+1078;129;31;11;te pongo mal(prendelo);9,0;Jowell & Randy;0
+1079;129;31;12;la luz(Fín);8,5;;0
+1080;129;31;13;ángel sin cielo;7,5;;0
+1081;129;31;14;Solita;8,0;;0
+1082;129;31;15;Fue mejor;10,0;SZA;0
+1083;130;31;1;¿Cómo Así?;8,5;;0
+1084;130;31;2;Me Pongo Loca;8,0;;0
+1085;130;31;3;Igual Que Un Ángel;8,0;Peso Pluma;0
+1086;130;31;4;Pensamientos Intrusivos;7,25;;0
+1087;130;31;5;Diosa;7,0;;0
+1088;130;31;6;Te Mata;9,5;;0
+1089;130;31;7;Perdiste;7,5;;0
+1090;130;31;8;Young Rich & In Love;8,5;;0
+1091;130;31;9;Tu Corazón Es Mío…;7,5;;0
+1092;130;31;10;Muñekita;9,5;El Alfa, JT;0
+1093;130;31;11;Labios Mordidos;10,0;Karol G;0
+1094;130;31;12;No Hay Ley Parte 2;6,0;Rauw Alejandro;0
+1095;130;31;13;Heladito;4,0;;0
+1096;130;31;14;Adicto;4,0;;0
+1097;130;31;15;Young Rich & In Love (KAYTRANADA Remix);9,0;;0
+1098;130;31;16;Simple;6,5;;0
+1099;130;31;17;Como Debe Ser;4,0;;0
+1100;130;31;18;Dame Beso // Muévete;9,0;;0
+1101;131;31;1;In My Garden…;;;0
+1102;131;31;2;I Wish You Roses;8,5;;0
+1103;131;31;3;Worth The Wait;8,0;Omar Apollo;0
+1104;131;31;4;Love Between…;7,0;;0
+1105;131;31;5;All Mine;7,0;;0
+1106;131;31;6;Fantasy;10,0;Don Toliver;0
+1107;131;31;7;Come Te Quiero Yo;5,0;;0
+1108;131;31;8;Hasta Cuando;6,0;;0
+1109;131;31;9;Endlessly;7,5;;0
+1110;131;31;10;Moral Conscience;7,0;;0
+1111;131;31;11;Not Too Late;7,0;;0
+1112;131;31;12;Blue;8,0;;0
+1113;131;31;13;Deserve Me;8,0;Summer Walker;0
+1114;131;31;14;Moonlight;10,0;;0
+1115;131;31;15;Happy Now;8,0;;0
+1116;132;31;1;Heaven Is A Home...;7,0;;0
+1117;132;31;2;Sugar! Honey! Love!;7,0;;0
+1118;132;31;3;Lose My Cool,;8,0;;0
+1119;132;31;4;It's Just Us;7,5;;0
+1120;132;31;5;For: You;7,0;;0
+1121;132;31;6;Silk Lingerie,;6,5;;0
+1122;132;31;7;Territorial;7,0;;0
+1123;132;31;8;Fall Apart,;6,5;;0
+1124;132;31;9;All I Can Say;7,5;;0
+1125;132;31;10;Daggers!;8,0;;0
+1126;132;31;11;Angels All Around Me...;6,5;;0
+1127;132;31;12;Breeze!;9,0;;0
+1128;132;31;13;Sunshine & Rain...;9,5;;0
+1129;132;31;14;ILYSMIH;8,75;;0
+1130;132;31;15;Cry About It!;;Ravyn Lenae;0
+1131;132;31;16;Whispers of the Wind…;;;0
+1132;132;31;17;Pretty Promises,;;;0
+1133;132;31;18;Cherry On Top;;;0
+1134;132;31;19;All Of The Good,;;;0
+1135;133;32;1;Intro;;;0
+1136;133;32;2;We Don't Care;10,0;;0
+1137;133;32;3;Graduation Day;;;0
+1138;133;32;4;All Falls Down;10,0;Syleena Johnson;0
+1139;133;32;5;I'll Fly Away;10,0;;0
+1140;133;32;6;Spaceship;10,0;GLC, Consequence;0
+1141;133;32;7;Jesus Walks;10,0;;1
+1142;133;32;8;Never Let Me Down;9,0;Jay-Z, J. Ivy;0
+1143;133;32;9;Get Em High;8,75;Telib Kweli, Common;0
+1144;133;32;10;Workout Plan;;;0
+1145;133;32;11;The New Workout Plan;9,5;;0
+1146;133;32;12;Slow Jamz;10,0;Twista, Jamie Foxx;1
+1147;133;32;13;Breathe In Breathe Out;9,0;Ludacris;0
+1148;133;32;14;School Spirit Skit 1;;;0
+1149;133;32;15;School Spirit;8,5;;0
+1150;133;32;16;School Spirit Skit 2;;;0
+1151;133;32;17;Lil Jimmy Skit;;;0
+1152;133;32;18;Two Words;10,0;Mos Def, Freeway, The Boys Choir of Harlem;0
+1153;133;32;19;Throught The Wire;10,0;;1
+1154;133;32;20;Family Business;10,0;;0
+1155;133;32;21;Last Call;10,0;;0
+1156;134;32;1;Wake Up Mr West;;;0
+1157;134;32;2;Heard'Em Say;10,0;Adam Levine;0
+1158;134;32;3;Touch The Sky;10,0;Lupe Fiasco;0
+1159;134;32;4;Gold Digger;10,0;Jamie Foxx;0
+1160;134;32;5;Skit #1;;;0
+1161;134;32;6;Drive Slow;10,0;Paul Wall, GLC;0
+1162;134;32;7;My Way Home;10,0;Common;0
+1163;134;32;8;Crack Music;10,0;The Game;0
+1164;134;32;9;Roses;10,0;;0
+1165;134;32;10;Bring Me Down;10,0;Brandy;0
+1166;134;32;11;Addiction;10,0;;0
+1167;134;32;12;Skit #2;;;0
+1168;134;32;13;Diamonds From Sierra Leone (remix);10,0;Jay-Z;0
+1169;134;32;14;We Major;10,0;Nas, Really Doe;1
+1170;134;32;15;Skit #3;;;0
+1171;134;32;16;Hey Mama;10,0;;1
+1172;134;32;17;Celebration;10,0;;0
+1173;134;32;18;Skit #4;;;0
+1174;134;32;19;Gone;10,0;Consequence, Cam'ron;0
+1175;134;32;20;Diamonds From Sierra Leone;10,0;;0
+1176;134;32;21;Late;10,0;;1
+1177;135;32;1;Good Morning;10,0;;1
+1178;135;32;2;Champion;10,0;;0
+1179;135;32;3;Stronger;10,0;;0
+1180;135;32;4;I Wonder;10,0;;1
+1181;135;32;5;Good Life;10,0;T-Pain;0
+1182;135;32;6;Can't Tell Me Nothing;10,0;;1
+1183;135;32;7;Barry Bonds;9,0;Lil Wayne;0
+1184;135;32;8;Drunk And Hot Girls;10,0;Mos Def;0
+1185;135;32;9;Flashing Lights;10,0;Dwele;1
+1186;135;32;10;Everything I Am;10,0;Dj Premier;0
+1187;135;32;11;The Glory;10,0;;0
+1188;135;32;12;Homecoming;10,0;Chris Martin;1
+1189;135;32;13;Big Brother;10,0;;0
+1190;135;32;14;Good Night;10,0;Mos Def, Al Be Back;1
+1191;135;32;15;Bittersweet Poetry;10,0;;0
+1192;136;32;1;Say You Will;9,5;;0
+1193;136;32;2;Welcome To Heartbreak;9,0;Kid Cudi;0
+1194;136;32;3;Heartless;10,0;;1
+1195;136;32;4;Love Lockdown;9,5;Young Jeezy;0
+1196;136;32;5;Paranoid;10,0;;0
+1197;136;32;6;RoboCop;10,0;Mr Hudson;0
+1198;136;32;7;Street Lights;10,0;;1
+1199;136;32;8;Bad News;10,0;;1
+1200;136;32;9;See You In My Nightmares;10,0;Lil Wayne;0
+1201;136;32;10;Coldest Winter;10,0;;0
+1202;136;32;11;Pinocchio Story;6,0;;0
+1203;137;32;1;Dark Fantasy;10,0;Nicky Minaj;1
+1204;137;32;2;Gorgeous;10,0;Kid Cudi, Raekwon;0
+1205;137;32;3;POWER;10,0;;0
+1206;137;32;4;All Of The Lights (Interlude);10,0;;0
+1207;137;32;5;All Of The Lights;10,0;;1
+1208;137;32;6;Monster;10,0;Rick Ross, Jay-Z, Nicky Minaj;1
+1209;137;32;7;So Appaled;10,0;Jay-Z, Pusha T, Prynce Cy Hi, Swizz Beats, RZA;0
+1210;137;32;8;Devil In A New Dress;10,0;Rick Ross;1
+1211;137;32;9;Runaway;10,0;Pusha T;1
+1212;137;32;10;Hell Of A Life;10,0;;0
+1213;137;32;11;Blame Game;10,0;John Legend;0
+1214;137;32;12;Lost In The World;10,0;Bon Iver;0
+1215;137;32;13;Who Will Survive In America;10,0;;0
+1216;137;32;14;See Me Now;10,0;Beyonce, Charlie Wilson, Big Sean;1
+1217;137;32;15;Never See Me Again;10,0;;1
+1218;138;32;1;On Sight;9,0;;0
+1219;138;32;2;Black Skinhead;9,0;;0
+1220;138;32;3;I Am A God;7,0;;0
+1221;138;32;4;New Slaves;10,0;;1
+1222;138;32;5;Hold My Liquor;9,5;Chief Keef, Justin Vernon;0
+1223;138;32;6;I'm In It;9,5;Assassin, Justin Vernon;0
+1224;138;32;7;Blood On The Leaves;9,0;;0
+1225;138;32;8;Guilt Trip;10,0;Kid Cudi;1
+1226;138;32;9;Send It Up;10,0;King Louie;0
+1227;138;32;10;Bound 2;10,0;Charlie Wilson;1
+1228;139;32;1;Ultralight Beam;10,0;The-Dream, Kelly Price, Kirk Franklin, Chance The Rapper;1
+1229;139;32;2;Father Stretch My Hand Pt. 1;10,0;"Kid Cudi, Metro Boomin; Pastor T.L. Barrett / Choir+";0
+1230;139;32;3;Pt. 2;4,0;Desiigner;0
+1231;139;32;4;Famous;10,0;Rihanna, Swizz Beatz;0
+1232;139;32;5;Feedback;8,5;;0
+1233;139;32;6;Low Lights;;;0
+1234;139;32;7;Highlights;9,5;The-Dream, Young Thug, El DeBarge;0
+1235;139;32;8;Freestyle 4;6,0;Desiigner;0
+1236;139;32;9;I Love Kanye;;;0
+1237;139;32;10;Waves;10,0;Chris Brown, Kid Cudi;0
+1238;139;32;11;FML;10,0;The Weeknd;0
+1239;139;32;12;Real Friends;7,5;Ty Dolla $ign;0
+1240;139;32;13;Wolves;9,5;Sia, VIC MENSA;0
+1241;139;32;14;Frank's Track;;Frank Ocean;0
+1242;139;32;15;Siiiiiiiiilver Surffffeeeeer Intermission;;;0
+1243;139;32;16;30 Hours;8,5;;0
+1244;139;32;17;No More Party In LA;10,0;Kendrick Lamar;1
+1245;139;32;18;Facts;7,0;;0
+1246;139;32;19;Fade;10,0;Post Malone, Ty Dolla $ign;0
+1247;139;32;20;Saint Pablo;10,0;SAMPHA;1
+1248;140;32;1;I Thought About Killing You;7,0;;0
+1249;140;32;2;Yikes;9,0;;0
+1250;140;32;3;All Mine;10,0;;0
+1251;140;32;4;Wouldn't Leave;10,0;;0
+1252;140;32;5;No Mistakes;10,0;;0
+1253;140;32;6;Ghost Town;10,0;;1
+1254;140;32;7;Violent Crimes;10,0;;1
+1255;141;32;1;Feel The Love;9,0;Pusha T;0
+1256;141;32;2;Fire;8,0;;0
+1257;141;32;3;4th Dimension;10,0;Louis Prima;0
+1258;141;32;4;Freeee (Ghost Town Pt. 2);9,0;Ty Dolla $ign;0
+1259;141;32;5;Reborn;9,5;;0
+1260;141;32;6;Kids See Ghosts;10,0;Yasiin Bey;0
+1261;141;32;7;Cudi Montage;8,5;;0
+1262;142;32;1;Every Hour;7,0;Sunday Service Choir;0
+1263;142;32;2;Selah;8,5;;0
+1264;142;32;3;Follow God;9,0;;0
+1265;142;32;4;Closed On Sunday;8,0;;0
+1266;142;32;5;On God;7,0;;0
+1267;142;32;6;Everything We Need;10,0;Ty Dolla $ign, Ant Clemons;0
+1268;142;32;7;Water;10,0;Ant Clemons;0
+1269;142;32;8;God Is;10,0;;1
+1270;142;32;9;Hands On;6,0;Fred Hammond;0
+1271;142;32;10;Use This Gopel;8,0;Clipse, Kenny G;0
+1272;142;32;11;Jesus Is Lord;7,0;;0
+1273;143;32;1;Donda Chant;;;0
+1274;143;32;2;Hurricane;10,0;The Weeknd, Lil Baby;0
+1275;143;32;3;Moon;10,0;Don Toliver, Kid Cudi;0
+1276;143;32;4;Life Of The Party;10,0;André 3000;1
+1277;143;32;5;Off The Grid;9,0;Fivio Foreign, Playboy Carti;0
+1278;143;32;6;Jail;8,0;Jay-Z;0
+1279;143;32;7;Praise God;10,0;Baby Keem, Travis Scott;0
+1280;143;32;8;Come To Life;10,0;Tyler, The Creator;1
+1281;143;32;9;Believe What I Say;10,0;;0
+1282;143;32;10;No Child Left Behind;8,0;Vory;0
+1283;143;32;11;Up From The Ashes;7,5;;0
+1284;143;32;12;Remote Control Pt. 2;9,0;Young Thug, Kid Cudi;0
+1285;143;32;13;God Breathed;7,5;Vory;0
+1286;143;32;14;Lord I Need You;9,0;;0
+1287;143;32;15;24;10,0;;1
+1288;143;32;16;Junya;8,5;Playboy Carti;0
+1289;143;32;17;Never Abandon Your Family;6,0;;0
+1290;143;32;18;Donda;7,0;Stalone, The World Famous Tony Williams;0
+1291;143;32;19;Keep My Spirit;8,0;Conway the Machine, Westside Gunn;0
+1292;143;32;20;Jesus Lord Pt. 2;6,5;Jay Electronica, The LOX;0
+1293;143;32;21;Heaven And Hell;8,0;;0
+1294;143;32;22;Remote Control;8,0;;0
+1295;143;32;23;Tell The Vision;3,0;Pop Smoke;0
+1296;143;32;24;Jonah;9,0;Lil Durk, Vory;0
+1297;143;32;25;Pure Souls;10,0;Roddy Rich, Shenseea;0
+1298;143;32;26;Ok Ok;7,0;Lil Yatchy, Rooga;0
+1299;143;32;27;New Again;9,0;;0
+1300;143;32;28;Jesus Lord;6,5;Jay Electronica;0
+1301;143;32;29;Ok Ok Pt. 2;9,0;Shenseea;0
+1302;143;32;30;Junya Pt. 2;10,0;Playboy Carti, Ty Dolla $ign;0
+1303;143;32;31;Jail Pt. 2;7,5;DaBaby, Marilyn Manson;0
+1304;143;32;32;Keep My Spirit Pt. 2;10,0;Conway the Machine, KayCyy, Westside Gunn;1
+1305;144;32;1;STARS;9,0;;0
+1306;144;32;2;KEYS TO MY LIFE;8,0;India Love;0
+1307;144;32;3;PAID;10,0;;0
+1308;144;32;4;TALKING;10,0;North West;0
+1309;144;32;5;BACK TO ME;10,0;Freddie Gibbs;0
+1310;144;32;6;HOODRAT;6,0;Mike Tyson;0
+1311;144;32;7;DO IT;8,0;Nipsey Hussle, YG;0
+1312;144;32;8;PAPERWORK;10,0;Quavo;0
+1313;144;32;9;BURN;10,0;;1
+1314;144;32;10;FUK SUMN;8,0;Playboy Carti, Travis Scott;0
+1315;144;32;11;VULTURES;4,0;Bump J, Lil Durk;0
+1316;144;32;12;CARNIVAL;8,5;PlayBoy Carti, Rich The Kid;0
+1317;144;32;13;BEG FORGIVENESS;10,0;Chris Brown;0
+1318;144;32;14;GOOD (DON'T DIE);10,0;;0
+1319;144;32;15;PROBLEMATIC;8,0;;0
+1320;144;32;16;KING;6,0;;0
+1321;145;32;1;SLIDE;8,0;;0
+1322;145;32;2;TIME MOVING SLOW;9,0;;0
+1323;145;32;3;FIELD TRIP;10,0;PlayBoy Carti, Don Toliver, Kodak Black;0
+1324;145;32;4;FRIED;4,0;;0
+1325;145;32;5;ISABELLA;;Isabelle Papile;0
+1326;145;32;6;PROMOTION;9,0;Future;0
+1327;145;32;7;HUSBAND;5,0;;0
+1328;145;32;8;LIFESTYLE;10,0;Lil Wayne;0
+1329;145;32;9;FOREVER;8,5;;0
+1330;145;32;10;BOMB;0,0;North West, Chicago West, Yuno Miles;0
+1331;145;32;11;RIVER;10,0;Young Thug;1
+1332;145;32;12;530;9,0;;0
+1333;145;32;13;DEAD;7,5;Future, Lil Durk;0
+1334;145;32;14;FOREVER ROLLING;7,0;Lil Baby;0
+1335;145;32;15;SKY CITY;9,0;070 Shake, Desiigner;0
+1336;145;32;16;MY SOUL;10,0;Big TC;0
+1337;145;32;17;TAKE OFF YOUR DRESS;;;0
+1338;145;32;18;BELIEVER;;;0
+1339;145;32;19;DRUNK;;Kodak Black, Peso Pluma;0
+1340;145;32;20;GUN TO MY HEAD;;Kid Cudi;0
+1341;145;32;21;CAN U BE;;Travis Scott;0
+1342;146;33;1;Never Too Much;10,0;;1
+1343;146;33;2;Sugar and Spice (I Found Me a Girl);9,5;;0
+1344;146;33;3;Don't You Know That ?;9,0;;0
+1345;146;33;4;I'Ve Been Working;10,0;;0
+1346;146;33;5;She's a Super Lady;8,5;;0
+1347;146;33;6;You Stopped Loving Me;10,0;;0
+1348;146;33;7;A House Is Not a Home;10,0;;1
+1349;150;33;1;Love The One You're With;9,0;;0
+1350;150;33;2;Killing Me Softly;8,0;;0
+1351;150;33;3;Endless Love;10,0;Mariah Carey;0
+1352;150;33;4;Evergreen;7,0;;0
+1353;150;33;5;Reflections;7,5;;0
+1354;150;33;6;Hello;8,0;;0
+1355;150;33;7;Ain't No Stoppin' Us Now;7,5;;0
+1356;150;33;8;Always and Forever;7,0;;0
+1357;150;33;9;Going In Circles;8,0;;0
+1358;150;33;10;Since You've Been Gone;7,5;;0
+1359;150;33;11;All The Woman I Need;8,0;;0
+1360;150;33;12;What The World Needs Now;10,0;;0
+1361;150;33;13;The Impossible Dream;8,0;;0
+1362;159;34;1;What's Going On;10,0;;1
+1363;159;34;2;What's Happening Brother;10,0;;0
+1364;159;34;3;Flyin' High (In The Friendly Sky);8,5;;0
+1365;159;34;4;Save The Children;10,0;;0
+1366;159;34;5;God Is Love;10,0;;0
+1367;159;34;6;Mercy Mercy Me;10,0;;1
+1368;159;34;7;Right On;9,0;;0
+1369;159;34;8;Wholy Holy;10,0;;0
+1370;159;34;9;Inner City Blues (Make Me Wanna Holler);9,5;;0
+1371;160;34;1;Let's Get it On;10,0;;1
+1372;160;34;2;Please Don't Stay (Once You Go Away);9,0;;0
+1373;160;34;3;If I Should Die Tonight;10,0;;0
+1374;160;34;4;Keep Gettin' It On;8,5;;0
+1375;160;34;5;Come Get To This;9,0;;0
+1376;160;34;6;Distant Lover;10,0;;1
+1377;160;34;7;You Sure Love To Ball;10,0;;0
+1378;160;34;8;Just To Keep You Satisfied;10,0;;1
+1379;162;34;1;Midnight Lady;8,0;;0
+1380;162;34;2;Sexual Healing;10,0;;1
+1381;162;34;3;Rockin' After Midnight;8,0;;0
+1382;162;34;4;Til Tomorrow;9,0;;0
+1383;162;34;5;Turn On Some Music;7,5;;0
+1384;162;34;6;Third World Girl;6,5;;0
+1385;162;34;7;Joy;8,0;;0
+1386;162;34;8;My Love Is Waiting;7,5;;0
+1387;162;34;9;Rockin' After Midnight (Instrumental);7,0;;0
+1388;168;36;1;Wanna Be Startin’ Somethin’;10,0;;1
+1389;168;36;2;Baby Be Mine;10,0;;1
+1390;168;36;3;The Girl is Mine;10,0;Paul McCartney;0
+1391;168;36;4;Thriller;10,0;;1
+1392;168;36;5;Beat It;10,0;;0
+1393;168;36;6;Billie Jean;10,0;;0
+1394;168;36;7;Human Nature;10,0;;1
+1395;168;36;8;P.Y.T (Pretty Young Thing);10,0;;0
+1396;168;36;9;The Lady in My Life;10,0;;1
+1397;169;36;1;Don't Stop 'Til You Get Enough;10,0;;1
+1398;169;36;2;Rock With You;10,0;;1
+1399;169;36;3;Working Day And Night;10,0;;0
+1400;169;36;4;Get On The Floor;9,25;;0
+1401;169;36;5;Off The Wall;9,5;;0
+1402;169;36;6;Girlfriend;8,5;;0
+1403;169;36;7;She's Out Of My Life;9,0;;0
+1404;169;36;8;I Can't Help It;7,0;;0
+1405;169;36;9;It's The Falling In Love;9,0;Patti Austin;0
+1406;169;36;10;Burn This Disco Out;9,25;;0
+1407;170;36;1;Jam;10,0;Heavy D;0
+1408;170;36;2;Why You Wanna Trip On Me;8,0;;0
+1409;170;36;3;In The Closest;6,5;Princess Stephanie of Monaco;0
+1410;170;36;4;She Drives Me Wild;7,0;Aqil Davidson;0
+1411;170;36;5;Remember The Time;10,0;;0
+1412;170;36;6;Can't Let Her Get Away;6,5;;0
+1413;170;36;7;Heal The World;10,0;;1
+1414;170;36;8;Black Or White;10,0;;0
+1415;170;36;9;Who Is It;9,0;;0
+1416;170;36;10;Give In To Me;8,0;Slash;0
+1417;170;36;11;Will You Be There;10,0;;0
+1418;170;36;12;Keep The Faith;8,0;Andraé Crouch, Sandra Crouch;0
+1419;170;36;13;Gone Too Soon;7,0;;0
+1420;170;36;14;Dangerous;9,0;;0
+1421;171;36;1;Bad;10,0;;0
+1422;171;36;2;The Way You Make Me Feel;10,0;;0
+1423;171;36;3;Speed Demon;8,5;;0
+1424;171;36;4;Liberian Girl;10,0;;0
+1425;171;36;5;Just Good Friends;9,0;Stevie Wonder;0
+1426;171;36;6;Another Part Of Me;9,5;;0
+1427;171;36;7;Man In The Mirror;10,0;;0
+1428;171;36;8;I Just Can't Stop Loving You;10,0;Siedah Garrett;0
+1429;171;36;9;Dirty Diana;10,0;;0
+1430;171;36;10;Smooth Criminal;10,0;;0
+1431;171;36;11;Leave Me Alone;10,0;;0
+1432;172;36;1;Scream;8,0;Janet Jackson;0
+1433;172;36;2;They Don't Care About Us;10,0;;1
+1434;172;36;3;Stranger In Moscow;;;0
+1435;172;36;4;This Time Around;;;0
+1436;172;36;5;Earth Song;10,0;;1
+1437;172;36;6;D.S.;;;0
+1438;172;36;7;Money;;;0
+1439;172;36;8;Come Together;;;0
+1440;172;36;9;You Are Not Alone;;;0
+1441;172;36;10;Childhood;;;0
+1442;172;36;11;Tabloid Junkie;;;0
+1443;172;36;12;2 Bad;;;0
+1444;172;36;13;History;;;0
+1445;172;36;14;Little Susie / Pie Jesu;;;0
+1446;172;36;15;Smile;;;0
+1447;173;36;1;Unbreakable;8,0;The Notorious B.I.G.;0
+1448;173;36;2;Heartbreaker;9,0;Fats;0
+1449;173;36;3;Invincible;7,0;Fats;0
+1450;173;36;4;Break Of Dawn;10,0;;0
+1451;173;36;5;Heaven Can Wait;10,0;;0
+1452;173;36;6;You Rock My World;10,0;;1
+1453;173;36;7;Butterflies;10,0;Marsha Ambrosius;1
+1454;173;36;8;Speechless;8,5;;0
+1455;173;36;9;2000 Watts;4,0;Teddy Riley;0
+1456;173;36;10;You Are My Life;10,0;;0
+1457;173;36;11;Privacy;8,0;;0
+1458;173;36;12;Don't Walk Away;9,5;;0
+1459;173;36;13;Cry;10,0;;0
+1460;173;36;14;The Lost Children;10,0;;0
+1461;173;36;15;Whatever Happens;10,0;Carlos Santana;1
+1462;173;36;16;Threatened;8,0;Rod Serling;0
+1463;180;37;1;Intro;;;0
+1464;180;37;2;Lost One;10,0;;0
+1465;180;37;3;Ex-Factor;10,0;;1
+1466;180;37;4;To Zion;10,0;Carlos Santana;0
+1467;180;37;5;Doo-Wop (That Thing);10,0;;0
+1468;180;37;6;Superstar;9,5;;0
+1469;180;37;7;Final Hour;9,0;;0
+1470;180;37;8;When It Hurts So Bad;10,0;;0
+1471;180;37;9;I Used to Love Him;10,0;Mari J. Blige;0
+1472;180;37;10;Forgive Them Father;10,0;;0
+1473;180;37;11;Every Ghetto, Every City;9,0;;0
+1474;180;37;12;Nothing Even Matters;10,0;D'Angelo;0
+1475;180;37;13;Everything is Everything;9,0;;0
+1476;180;37;14;The Miseducation of Lauryn Hill;10,0;;1
+1477;180;37;15;Can't Take My Eyes Off of You;10,0;;0
+1478;180;37;16;Tell Him;10,0;;0
+1479;184;39;1;Prends-moi la main (acoustique);7,0;;0
+1480;184;39;2;Ne t'en fais pas;7,5;;0
+1481;184;39;3;Mon Soleil;10,0;;0
+1482;184;39;4;Tous mes rêves;;;0
+1483;185;40;1;Pon De Replay;8,5;;0
+1484;185;40;2;Here I Go Again;9,0;J-Status;0
+1485;185;40;3;If It's Loving That's You Want;10,0;;0
+1486;185;40;4;You Don't Love Me;7,0;Vybz Kartel;0
+1487;185;40;5;That, La, La, La;7,5;;0
+1488;185;40;6;The Last Time;6,5;;0
+1489;185;40;7;Willing To Wait;8,5;;0
+1490;185;40;8;Music Of The Sun;9,5;;0
+1491;185;40;9;Let Me;7,5;;0
+1492;185;40;10;Rush;9,0;Kardinal Offishall;0
+1493;185;40;11;There's A Thug In My Life;7,0;J-Status;0
+1494;185;40;12;Now I Know;8,0;;0
+1495;186;40;1;SOS;6,0;;0
+1496;186;40;2;Kisses Don't Lie;6,5;;0
+1497;186;40;3;Unfaithful;8,5;;0
+1498;186;40;4;We Ride;6,0;;0
+1499;186;40;5;Dem Haters;6,5;Dwane Husbands;0
+1500;186;40;6;Final Goodbye;7,0;;0
+1501;186;40;7;Break It Off;6,5;Sean Paul;0
+1502;186;40;8;Crazy Little Thing Called Love;7,5;J-Status;0
+1503;186;40;9;Selfish Girl;7,0;;0
+1504;186;40;10;P.S. (I'm Still Not Over You);9,0;;0
+1505;186;40;11;A Girl Like Me;7,0;;0
+1506;186;40;12;A Million Miles Away;7,25;;0
+1507;186;40;13;If It's Loving That You Want pt.2;3,0;Cory Gunz;0
+1508;187;40;1;Umbrella;8,5;Jay-Z;0
+1509;187;40;2;Push Up On Me;8,0;;0
+1510;187;40;3;Don't Stop The Music;7,5;;0
+1511;187;40;4;Breakin' Dishes;6,0;;0
+1512;187;40;5;Shut Up And Drive;6,5;;0
+1513;187;40;6;Hate That I Love You;7,5;Ne-Yo;0
+1514;187;40;7;Say It;6,0;;0
+1515;187;40;8;Sell Me Candy;5,0;;0
+1516;187;40;9;Lemme Get That;6,5;;0
+1517;187;40;10;Rehab;9,0;;0
+1518;187;40;11;Question Existing;6,5;;0
+1519;187;40;12;Good Girl Gone Bad;7,0;;0
+1520;187;40;13;Disturbia;7,5;;0
+1521;187;40;14;Take A Bow;10,0;;0
+1522;187;40;15;If I Never See Your Face Again;;Maroon 5;0
+1523;188;40;1;Mad House;4,0;;0
+1524;188;40;2;Wait Your Turn;6,0;;0
+1525;188;40;3;Hard;7,5;Jeezy;0
+1526;188;40;4;Stupid In Love;7,0;;0
+1527;188;40;5;ROCKSTAR 101;6,5;Slash;0
+1528;188;40;6;Russian Roulette;8,0;;0
+1529;188;40;7;Fire Bomb;4,0;;0
+1530;188;40;8;Rude Boy;8,0;;0
+1531;188;40;9;Photographs;7,0;will.i.am;0
+1532;188;40;10;G4L;5,0;;0
+1533;188;40;11;Te Amo;10,0;;0
+1534;188;40;12;Cold Case Love;8,0;;0
+1535;188;40;13;The Last Song;7,5;;0
+1536;189;40;1;You Da One;9,0;;0
+1537;189;40;2;Where Have You Been;8,0;;0
+1538;189;40;3;We Found Love;8,25;Calvin Harris;0
+1539;189;40;4;Talk That Talk;7,5;Jay-Z;0
+1540;189;40;5;Cockiness (Love It);8,0;;0
+1541;189;40;6;Birthday Cake;7,0;;0
+1542;189;40;7;We All Want Love;6,5;;0
+1543;189;40;8;Drunk On Love;6,5;;0
+1544;189;40;9;Roc Me Out;6,5;;0
+1545;189;40;10;Watch'N'Learn;7,5;;0
+1546;189;40;11;Farewell;6,0;;0
+1547;189;40;12;Red Lipstick;4,0;;0
+1548;189;40;13;Do Ya Thang;7,0;;0
+1549;189;40;14;Fool In Love;7,0;;0
+1550;190;40;1;S&M;7,0;;0
+1551;190;40;2;What's My Name;9,0;Drake;0
+1552;190;40;3;Cheers (Drink to That);9,5;;0
+1553;190;40;4;Fading;8,0;;0
+1554;190;40;5;Only Girl (In The World);8,5;;0
+1555;190;40;6;California Bed;10,0;;0
+1556;190;40;7;Man Down;10,0;;0
+1557;190;40;8;Raining Men;9,0;Nicky Minaj;0
+1558;190;40;9;Complicated;10,0;;0
+1559;190;40;10;Skin;8,0;;0
+1560;190;40;11;Love The Way You Lie;7,0;Eminem;0
+1561;191;40;1;Phresh Out The Runway;3,0;;0
+1562;191;40;2;Diamonds;9,5;;0
+1563;191;40;3;Numb;4,0;Eminem, Kanye West;0
+1564;191;40;4;Pour It Up;8,5;;0
+1565;191;40;5;Loveeeeeee Song;6,75;Future;0
+1566;191;40;6;Jump;2,0;Kevin Cossom;0
+1567;191;40;7;Right Now;4,0;David Guetta;0
+1568;191;40;8;What Now;6,75;;0
+1569;191;40;9;Stay;10,0;Mikky Ekko;0
+1570;191;40;10;Nobody's Business;8,25;Chris Brown;0
+1571;191;40;11;Love Without Tragedy / Mother Mary;5,5;;0
+1572;191;40;12;Get It Over With;6,5;;0
+1573;191;40;13;No Love Allowed;8,75;;0
+1574;191;40;14;Lost In Paradise;7,0;;0
+1575;191;40;15;Half Of Me;7,0;;0
+1576;192;40;1;Consideration;9,5;SZA;0
+1577;192;40;2;James Joint;7,0;;0
+1578;192;40;3;Kiss It Better;10,0;;0
+1579;192;40;4;Work;9,0;Drake;0
+1580;192;40;5;Desperado;9,25;;0
+1581;192;40;6;Woo;8,5;Travis Scott;0
+1582;192;40;7;Needed Me;8,25;;0
+1583;192;40;8;Yeah, I Said It;7,25;;0
+1584;192;40;9;Same Ol' Mistakes;9,75;;0
+1585;192;40;10;Never Ending;6,0;;0
+1586;192;40;11;Love On The Brain;10,0;;0
+1587;192;40;12;Higher;7,5;;0
+1588;192;40;13;Close To You;8,25;;0
+1589;192;40;14;Goodnight Gotham;3,5;;0
+1590;192;40;15;Pose;6,75;;0
+1591;192;40;16;Sex With Me;7,5;;0
+1592;195;43;1;Smooth Operator;10,0;;1
+1593;195;43;2;Your Love Is King;10,0;;0
+1594;195;43;3;Hang On To Your Love (Love Version);10,0;;1
+1595;195;43;4;Frankie's First Affair;8,0;;0
+1596;195;43;5;When Am I Going to Make a Living;7,0;;0
+1597;195;43;6;Cherry Pie;9,0;;0
+1598;195;43;7;Sally;8,5;;0
+1599;195;43;8;I Will Be Your Friend;8,5;;0
+1600;195;43;9;Why Can't We Live Together;9,5;;0
+1601;196;43;1;Is It A Crime;10,0;;0
+1602;196;43;2;The Sweetest Taboo;10,0;;1
+1603;196;43;3;War of the Hearts;10,0;;1
+1604;196;43;4;You're Not the Man;10,0;;0
+1605;196;43;5;Jezebel;10,0;;0
+1606;196;43;6;Mr Wrong;9,0;;0
+1607;196;43;7;Punch Drunk;8,5;;0
+1608;196;43;8;Never as Good as the First Time;9,0;;0
+1609;196;43;9;Fear;8,0;;0
+1610;196;43;10;Tar Baby;7,5;;0
+1611;196;43;11;Maureen;10,0;;0
+1612;197;43;1;Love is Stronger Than Pride;10,0;;0
+1613;197;43;2;Paradise;10,0;;0
+1614;197;43;3;Nothing Can Come Between Us;10,0;;0
+1615;197;43;4;Haunt Me;9,0;;0
+1616;197;43;5;Turn My Back On You;9,5;;0
+1617;197;43;6;Keep Looking;9,0;;0
+1618;197;43;7;Clean Heart;8,5;;0
+1619;197;43;8;Give It Up;9,0;;0
+1620;197;43;9;I Never Thought I'd See the Day;8,5;;0
+1621;197;43;10;Siempre Hay Ezperanza;9,0;;0
+1622;198;43;1;No Ordinary Love;10,0;;0
+1623;198;43;2;Feel no Pain;9,5;;0
+1624;198;43;3;I Couldn't Love You More;10,0;;0
+1625;198;43;4;Like a Tattoo;10,0;;0
+1626;198;43;5;Kiss of Life;10,0;;1
+1627;198;43;6;Cherish the Day;10,0;;1
+1628;198;43;7;Pearls;9,0;;0
+1629;198;43;8;Bullet Proof Soul;10,0;;0
+1630;198;43;9;Mermaid;7,5;;0
+1631;199;43;1;By Your Side;;;0
+1632;199;43;2;Flow;;;0
+1633;199;43;3;King of Sorrow;;;0
+1634;199;43;4;Somebody Already Broke My Heart;;;0
+1635;199;43;5;All About Your Love;;;0
+1636;199;43;6;Slave Song;;;0
+1637;199;43;7;The Sweetest Gift;;;0
+1638;199;43;8;Every Word;;;0
+1639;199;43;9;Immigrant;;;0
+1640;199;43;10;Lovers Rock;;;0
+1641;199;43;11;It's Only Love That Gets Through;;;0
+1642;200;43;1;The Moon and the Sky;;;0
+1643;200;43;2;Soldier of Love;;;0
+1644;200;43;3;Morning Bird;;;0
+1645;200;43;4;Babyfather;;;0
+1646;200;43;5;Long Hard Road;;;0
+1647;200;43;6;Be That Easy;;;0
+1648;200;43;7;Bring me Home;;;0
+1649;200;43;8;In Another Time;;;0
+1650;200;43;9;Skin;;;0
+1651;200;43;10;The Safest Place;;;0
+1652;201;46;1;Holly;;;0
+1653;201;46;2;Medley: Never My Love / Never Can Say Goodbye;;;0
+1654;201;46;3;A Silent Partner In A Three-Way Love Affair;;;0
+1655;201;46;4;Just My Soul Responding;;;0
+1656;201;46;5;Sweet Harmony;;;0
+1657;201;46;6;Will You Love Me Tomorrow;;;0
+1658;201;46;7;Wanna Know My Mind;;;0
+1659;201;46;8;The Family Song;;;0
+1660;201;46;9;Baby Come Close;;;0
+1661;202;48;1;Rise;8,0;;0
+1662;202;48;2;Weary;7,5;;0
+1663;202;48;3;Interlude : The Glory Is In You;;;0
+1664;202;48;4;Cranes In The Sky;10,0;;0
+1665;202;48;5;Interlude : Dad Was Mad;;;0
+1666;202;48;6;Mad;8,5;Lil Wayne;0
+1667;202;48;7;Don't You Wait;9,0;;0
+1668;202;48;8;Interlude : Tina Taught Me;;;0
+1669;202;48;9;Don't Touch My Hair;7,0;Sampha;0
+1670;202;48;10;Interlude : This Moment;;;0
+1671;202;48;11;Where Do We Go;7,5;;0
+1672;202;48;12;Interlude : For Us By Us;;;0
+1673;202;48;13;F.U.B.U;10,0;The-Dream, BJ Chicago Kid;0
+1674;202;48;14;Bordeline;7,5;Q-Tip;0
+1675;202;48;15;Interlude : I Got So Much Magic, You Can Have It;;Kelly Rowland, Nia Andrews;0
+1676;202;48;16;Junie;9,0;André 3000;0
+1677;202;48;17;Interlude : No Limits;;;0
+1678;202;48;18;Don't Wish Me Well;6,5;;0
+1679;202;48;19;Interlude : Pedestals;;;0
+1680;202;48;20;Scales;5,0;Kelela;0
+1681;202;48;21;Closing : Chosen Ones;;;0
+1682;203;48;1;Things I Imagined;6,0;;0
+1683;203;48;2;S McGregor;;;0
+1684;203;48;3;Down With The Clique;6,5;;0
+1685;203;48;4;Way To The Show;8,0;;0
+1686;203;48;5;Can I Hold The Mic (Interlude);;;0
+1687;203;48;6;Stay Flo;7,0;Metro Boomin;0
+1688;203;48;7;Dreams;7,5;;0
+1689;203;48;8;Nothing Without Intention (Interlude);;;0
+1690;203;48;9;Almeda;10,0;Playboy Carti, The-Dream, Pharrel Williams (prod), Metro Boomin;0
+1691;203;48;10;Time (is);6,5;Sampha;0
+1692;203;48;11;My Skin My Logo;8,0;Gucci Mane, Tyler, The Creator;0
+1693;203;48;12;We Deal With The Freak'n (Intermission);;;0
+1694;203;48;13;Jerrod;7,0;;0
+1695;203;48;14;Binz;9,0;The-Dream;0
+1696;203;48;15;Beltway;6,0;;0
+1697;203;48;16;Exit Scott (Interlude);;;0
+1698;203;48;17;Sound Of Rain;9,0;Pharrel Williams (prod);0
+1699;203;48;18;Not Screwed! (Interlude);;Standing In The Corner;0
+1700;203;48;19;I'm A Witness;9,0;;0
+1701;204;49;1;Make me Stay;7,0;;0
+1702;204;49;2;Mad Riches;8,5;;0
+1703;204;49;3;Indonesian Fantaisies;7,5;;0
+1704;204;49;4;Break You Off;8,0;;0
+1705;204;49;5;Someone New;7,0;;0
+1706;205;49;1;Feel;6,5;;0
+1707;205;49;2;Lovely;7,0;;0
+1708;205;49;3;Sirens;7,0;;0
+1709;205;49;4;Too Fast;8,0;;0
+1710;205;49;5;Baldwin Park;6,0;;0
+1711;205;49;6;Searchin;7,0;;0
+1712;205;49;7;Care;7,25;;0
+1713;206;50;1;Confessions;10,0;;0
+1714;206;50;2;Hotel Games Interlude;7,5;;0
+1715;206;50;3;BLS;8,0;;0
+1716;207;50;1;Vision Triple;7,0;;0
+1717;207;50;2;Smooth Operator;8,0;;0
+1718;207;50;3;PINK;6,5;;0
+1719;207;50;4;D.ZHANG;8,5;;0
+1720;207;50;5;Sidelines;6,0;;0
+1721;207;50;6;Candy;8,0;;0
+1722;207;50;7;Caribbean Caress;7,0;;0
+1723;207;50;8;Chanel;7,5;;0
+1724;207;50;9;Martini in Thirtyside;7,0;PANIA;0
+1725;208;50;1;Au CŒUR DU MIEN;8,5;;0
+1726;208;50;2;DANSE MA BELLE;8,0;;0
+1727;208;50;3;SHADES;8,75;;0
+1728;208;50;4;DATE NIGHT;6,5;;0
+1729;208;50;5;SPECIALE;8,5;;0
+1730;208;50;6;R&B PLUTO FREESTYLE;10,0;;0
+1731;208;50;7;MUSE;7,0;;0
+1732;208;50;8;KAY INTERLUDE;10,0;Kay The Prodigy;0
+1733;208;50;9;MEDECINE;7,5;;0
+1734;208;50;10;PRECIEUSE;8,0;;0
+1735;208;50;11;HYPNOTIZE;10,0;;0
+1736;208;50;12;SIN CITY;7,5;;0
+1737;208;50;13;VERITABLE LOVE;8,0;;0
+1738;209;50;1;AMI-AMIE;8,0;;0
+1739;209;50;2;BESOIN;9,0;;0
+1740;209;50;3;R&BOUNCE;10,0;Genezio;0
+1741;209;50;4;HIER;7,0;;0
+1742;209;50;5;COMMENT AI-JE PU TE DECEVOIR;8,5;;0
+1743;209;50;6;WASSUP;8,0;Nippa;0
+1744;209;50;7;STACEY DASH;9,5;;0
+1745;209;50;8;MAYA JAMA;10,0;Green Montana;0
+1746;209;50;9;FEVER FM;8,5;;0
+1747;210;50;1;SIGNE;9,0;;0
+1748;210;50;2;LIMOUSINE;8,0;;0
+1749;210;50;3;SECRETS;7,5;;0
+1750;211;51;1;Only If;9,0;;0
+1751;211;51;2;Like Me;8,5;DAISY WORLD;0
+1752;211;51;3;Playground;8,5;;0
+1753;211;51;4;Basement Jack;8,0;;0
+1754;211;51;5;Guide;9,0;;0
+1755;211;51;6;Lay Me Down;7,5;;0
+1756;211;51;7;Hate CD;7,5;;0
+1757;211;51;8;In Lust We Trust;6,5;;0
+1758;211;51;9;Love 2 Fast;8,0;;0
+1759;211;51;10;Amandia's Interlude;5,5;;0
+1760;211;51;11;N Side;10,0;;0
+1761;211;51;12;Outro Freestyle / 4 ever;6,0;;0
+1762;212;51;1;Static;9,0;;0
+1763;212;51;2;Helmet;9,5;;0
+1764;212;51;3;Mercury;9,0;;0
+1765;212;51;4;Buttons;8,5;;0
+1766;212;51;5;Bad Habits;8,5;;0
+1767;212;51;6;2Gether (Enterlude);7,0;Matt Martians;0
+1768;212;51;7;Cody Freestyle;8,0;;0
+1769;212;51;8;Amber;8,5;;0
+1770;212;51;9;Sunshine;10,0;Foushée;0
+1771;212;51;10;Give You The World;10,0;;0
+1772;213;51;1;Looks;6,5;;0
+1773;213;51;2;Ryd;8,0;;0
+1774;213;51;3;Dark Red;9,0;;0
+1775;213;51;4;Thangs;7,0;;0
+1776;213;51;5;Haterlovin;6,0;;0
+1777;213;51;6;Some;8,0;;0
+1778;214;53;1;Supermodel;7,0;;0
+1779;214;53;2;Love Glore;8,0;Travis Scott;0
+1780;214;53;3;Doves In The Wind;9,0;Kendrick Lamar;0
+1781;214;53;4;Drew Barrymore;7,0;;0
+1782;214;53;5;Prom;6,5;;0
+1783;214;53;6;The Weekend;7,0;;0
+1784;214;53;7;Go Gina;7,5;;0
+1785;214;53;8;Garden (Say It Like That);7,0;;0
+1786;214;53;9;Broken Clocks;9,0;;0
+1787;214;53;10;Anything;7,5;;0
+1788;214;53;11;Wavy (Interlude);6,0;James Fauntleroy;0
+1789;214;53;12;Normal Girl;7,0;;0
+1790;214;53;13;Pretty Little Birds;8,5;Isaiah Rashad;0
+1791;214;53;14;20 Something;6,5;;0
+1792;214;53;15;2AM;7,5;;0
+1793;214;53;16;Miles;7,0;;0
+1794;214;53;17;Percolator;6,5;;0
+1795;214;53;18;Tread Carefully;7,25;;0
+1796;214;53;19;Awkward;8,0;;0
+1797;214;53;20;Jodie;9,0;;0
+1798;215;53;1;SOS;10,0;;0
+1799;215;53;2;Kill Bill;8,0;;0
+1800;215;53;3;Seek & Destroy;8,5;;0
+1801;215;53;4;Low;9,0;Travis Scott;0
+1802;215;53;5;Love Language;7,0;;0
+1803;215;53;6;Blind;8,0;;0
+1804;215;53;7;Used;9,5;Don Toliver;0
+1805;215;53;8;Snooze;10,0;;0
+1806;215;53;9;Notice Me;8,0;;0
+1807;215;53;10;Gone Girl;7,0;;0
+1808;215;53;11;Smoking on my Ex Pack;7,5;;0
+1809;215;53;12;Ghost in the Machine;8,0;Phoebe Bridgers;0
+1810;215;53;13;F2F;6,0;;0
+1811;215;53;14;Nobody Gets Me;6,0;;0
+1812;215;53;15;Conceited;7,0;;0
+1813;215;53;16;Special;4,0;;0
+1814;215;53;17;Too Late;7,0;;0
+1815;215;53;18;Far;4,0;;0
+1816;215;53;19;Shirt;6,0;;0
+1817;215;53;20;Open Arms;10,0;Travis Scott;0
+1818;215;53;21;I Hate U;9,0;;0
+1819;215;53;22;Good Days;10,0;;0
+1820;215;53;23;Forgiveless;7,0;Ol' Dirty Bastard;0
+1821;216;53;1;No More Hiding;5,0;;0
+1822;216;53;2;What Do I Do;6,0;;0
+1823;216;53;3;30 For 30;9,0;Kendrick Lamar;0
+1824;216;53;4;Diamond Boy (DTM);8,5;;0
+1825;216;53;5;BMF;10,0;;0
+1826;216;53;6;Scorsese Baby Daddy;7,5;;0
+1827;216;53;7;Love Me 4 Me;5,0;;0
+1828;216;53;8;Chill Baby;6,5;;0
+1829;216;53;9;My Turn;10,0;;0
+1830;216;53;10;Crybaby;6,5;;0
+1831;216;53;11;Kitchen;8,0;;0
+1832;216;53;12;Get Behind Me (Interlude);9,0;;0
+1833;216;53;13;Drive;7,5;;0
+1834;216;53;14;Another Life;9,0;;0
+1835;216;53;15;Saturn;10,0;;0
+1836;216;53;16;Joni;7,5;Don Toliver;0
+1837;216;53;17;Take You Down;7,0;;0
+1838;216;53;18;Open Arms (just SZA);9,0;;0
+1839;216;53;19;PSA;6,75;;0
+1840;217;54;1;Let it Happen;9,5;;0
+1841;217;54;2;Nangs;7,0;;0
+1842;217;54;3;The Moment;7,5;;0
+1843;217;54;4;Yes I'm Changing;8,0;;0
+1844;217;54;5;Eventually;8,5;;0
+1845;217;54;6;Gossip;5,5;;0
+1846;217;54;7;The Less I Know the Better;8,5;;0
+1847;217;54;8;Past Life;6,5;;0
+1848;217;54;9;Disciples;8,0;;0
+1849;217;54;10;´Cause I'm a man;5,0;;0
+1850;217;54;11;Reality In A Motion;7,0;;0
+1851;217;54;12;Love/Paranoia;10,0;;0
+1852;217;54;13;New Person, Same Old Mistakes;10,0;;0
+1853;218;56;1;Can I Call You Rose?;10,0;;0
+1854;218;56;2;Lady Love;8,0;;0
+1855;218;56;3;Easier Said Than Done;10,0;;0
+1856;218;56;4;Overflowing;7,5;;0
+1857;218;56;5;Trade of Hearts;7,0;;0
+1858;218;56;6;Weak for Your Love;8,0;;0
+1859;218;56;7;Future Lover;6,5;;0
+1860;218;56;8;Sorrow For Tomorrow;7,0;;0
+1861;218;56;9;For Now;6,5;;0
+1862;218;56;10;Once You Know (Then You'll Know);7,0;;0
+1863;218;56;11;Happy And Well;8,5;;0
+1864;218;56;12;Love Comes Easy;10,0;;0
+1865;222;59;1;Intro;;;0
+1866;222;59;2;Yeah!;7,5;Lil Jon, Ludacris;0
+1867;222;59;3;Throwback;10,0;Jadakiss;0
+1868;222;59;4;Confessions;8,5;;0
+1869;222;59;5;Confessions Part II;8,0;;0
+1870;222;59;6;Burn;10,0;;0
+1871;222;59;7;Caught Up;6,5;;0
+1872;222;59;8;Superstar (Interlude);7,0;;0
+1873;222;59;9;Superstar;8,5;;0
+1874;222;59;10;Truth Hurts;8,0;;0
+1875;222;59;11;Simple Things;8,25;;0
+1876;222;59;12;Bad Girl;7,5;;0
+1877;222;59;13;That's What it's Made For;8,0;;0
+1878;222;59;14;Can U Handle it?;9,0;;0
+1879;222;59;15;Do It To Me;8,5;;0
+1880;222;59;16;Take Your Hand;8,5;;0
+1881;222;59;17;Follow Me;7,0;;0
+1882;222;59;18;My Boo;10,0;Alicia Keys;0
+1883;222;59;19;Red Light;8,0;;0
+1884;222;59;20;Seduction;7,5;;0
+1885;222;59;21;Confessions Part II Remix;7,0;Shyne, Twista, Kanye West;0
+1886;223;59;1;Intro-lude 8701;;;0
+1887;223;59;2;U Remind Me;8,0;;0
+1888;223;59;3;I Don't Know;6,0;P.Diddy;0
+1889;223;59;4;Twork It Out;8,5;;0
+1890;223;59;5;U Got It Bad;7,5;;0
+1891;223;59;6;If I Want To;7,0;;0
+1892;223;59;7;I Can't Let U Go;4,0;;0
+1893;223;59;8;U Don't Have to Call;;;0
+1894;223;59;9;Without U (Interlude);;;0
+1895;223;59;10;Can U Help Me;;;0
+1896;223;59;11;How Do I Say;;;0
+1897;223;59;12;Hottest Thing;;;0
+1898;223;59;13;Good Ol' Ghetto;;;0
+1899;223;59;14;U-Turn;;;0
+1900;223;59;15;U R The One;;;0
+1901;224;59;1;Monstar;;;0
+1902;224;59;2;Hey Daddy (Daddy's Home);;;0
+1903;224;59;3;There Goes My Baby;;;0
+1904;224;59;4;Lil Freak;;Nicki Minaj;0
+1905;224;59;5;She Don't Know;;Ludacris;0
+1906;224;59;6;OMG;;Will.i.am;0
+1907;224;59;7;Mars  vs Venus;;;0
+1908;224;59;8;Pro Lover;;;0
+1909;224;59;9;Foolin' Around;;;0
+1910;224;59;10;Papers;;;0
+1911;224;59;11;So Many Girls;;;0
+1912;224;59;12;Guilty;;T.I.;0
+1913;224;59;13;Okay;;;0
+1914;224;59;14;Making Love (Into The Night);;;0
+1915;224;59;15;Love 'Em All;;;0
+1916;224;59;16;DJ Got Us Fallin' In Love;;;0
+1917;224;59;17;Hot Tottie;;Jay-z;0
+1918;224;59;18;Lay You Down;;;0
+1919;224;59;19;Lingerie;;;0
+1920;224;59;20;Get In My Car;;Bun B;0
+1921;224;59;21;Somebody to Love;;Justin Bieber;0
+1922;225;59;1;Intro;;;0
+1923;225;59;2;Love In The Club;;Young Jeezy;0
+1924;225;59;3;This Ain't Sex;;;0
+1925;225;59;4;Trading Places;;;0
+1926;225;59;5;Moving Mountains;;;0
+1927;225;59;6;What's Your Name;;will.i.am;0
+1928;225;59;7;Prayer For You Interlude;;;0
+1929;225;59;8;Something Special;;;0
+1930;225;59;9;Love You Gently;;;0
+1931;225;59;10;Best Thing;;Jay-Z;0
+1932;225;59;11;Before I Met You;;;0
+1933;225;59;12;His Mistakes;;;0
+1934;225;59;13;Appetite;;;0
+1935;225;59;14;What's a Man Do;;;0
+1936;225;59;15;Lifetime;;;0
+1937;225;59;16;Love In The Club, pt.2;;Beyoncé, Lil Wayne;0
+1938;225;59;17;Here I Stand;;;0
+1939;225;59;18;Will Work For Love (f/k/a Hidden Bonus Track);;;0
+1940;226;59;1;Can't Stop Won't Stop;;;0
+1941;226;59;2;Scream;;;0
+1942;226;59;3;Climax;;;0
+1943;226;59;4;I Care For U;;;0
+1944;226;59;5;Show Me;;;0
+1945;226;59;6;Lemme See;;Rick Ross;0
+1946;226;59;7;Twisted;;Pharrel Williams;0
+1947;226;59;8;Dive;;;0
+1948;226;59;9;What Happened To U;;;0
+1949;226;59;10;Looking 4 Myself;;Luka Steel;0
+1950;226;59;11;Numb;;;0
+1951;226;59;12;Lessons For The Lover;;;0
+1952;226;59;13;Sins Of My Father;;;0
+1953;226;59;14;Euphoria;;;0
+1954;226;59;15;I.F.U;;;0
+1955;226;59;16;Say The Words;;;0
+1956;226;59;17;2nd Round;;;0
+1957;226;59;18;Hot Thing;;A$AP Rocky;0
+1958;227;59;1;Need U;;;0
+1959;227;59;2;Missin U;;;0
+1960;227;59;3;No Limit;;Young Thug;0
+1961;227;59;4;Bump;;;0
+1962;227;59;5;Let Me;;;0
+1963;227;59;6;Downtime;;;0
+1964;227;59;7;Crash;;;0
+1965;227;59;8;Make U Believer;;;0
+1966;227;59;9;Mind Of A Man;;;0
+1967;227;59;10;FWM;;;0
+1968;227;59;11;Rivals;;Future;0
+1969;227;59;12;Tell Me;;;0
+1970;227;59;13;Hard II Love;;;0
+1971;227;59;14;Stronger;;;0
+1972;227;59;15;Champions;;Ruben Blades;0
+1973;228;59;1;You Make Me Wanna…;;;0
+1974;228;59;2;Just Like Me;;;0
+1975;228;59;3;Nice & Slow;;;0
+1976;228;59;4;Slow Jam;;Monica;0
+1977;228;59;5;My Way;;;0
+1978;228;59;6;Come Back;;;0
+1979;228;59;7;I Will;;;0
+1980;228;59;8;Bedtime;;;0
+1981;228;59;9;One Day You'll Be Mine;;;0
+1982;228;59;10;You Make Me Wanna… (Extented Version);;;0

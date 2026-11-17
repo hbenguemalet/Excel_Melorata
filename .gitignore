@@ -1,0 +1,6 @@
+sauvegardes/
+__pycache__/
+~$*
+*.tmp
+Artistes_original.xlsm
+premier_envoi.bat
